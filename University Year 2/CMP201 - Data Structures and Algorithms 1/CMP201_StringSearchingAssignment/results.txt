@@ -1,0 +1,65 @@
+Results
+Boyer-Moore Count
+61  54
+Rabin Karp Count
+66  113
+Results
+Pattern Found are 
+Boyer-Moore Count
+61,  53ms.
+Rabin Karp Count
+66,  105ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count
+61,  82ms.
+Rabin Karp Count
+66,  84ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count
+61,  58ms.
+Rabin Karp Count
+66,  87ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count
+61,  55ms.
+Rabin Karp Count
+66,  41ms.
+Results
+Pattern Found - ! 
+Boyer-Moore Count
+91,  175ms.
+Rabin Karp Count
+421,  457ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count:
+61,  112ms.
+Rabin Karp Count:
+66,  126ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count:
+61,  87ms.
+Rabin Karp Count:
+66,  138ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count:
+61,  97ms.
+Rabin Karp Count:
+66,  148ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count:
+61,  133ms.
+Rabin Karp Count:
+66,  142ms.
+Results
+Pattern Found -  are 
+Boyer-Moore Count:
+61,  44ms.
+Rabin Karp Count:
+66,  88ms.

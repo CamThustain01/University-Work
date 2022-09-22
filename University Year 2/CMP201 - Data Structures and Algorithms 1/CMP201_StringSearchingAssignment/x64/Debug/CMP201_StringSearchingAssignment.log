@@ -1,0 +1,10 @@
+﻿  algorithms.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 2\CMP201\CMP201_StringSearchingAssignment\CMP201_StringSearchingAssignment\algorithms.cpp(14,13): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 2\CMP201\CMP201_StringSearchingAssignment\CMP201_StringSearchingAssignment\algorithms.cpp(18,41): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+  Source.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 2\CMP201\CMP201_StringSearchingAssignment\CMP201_StringSearchingAssignment\Source.cpp(56,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  utils.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+algorithms.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  CMP201_StringSearchingAssignment.vcxproj -> C:\Users\thust\OneDrive\Desktop\University Year 2\CMP201\CMP201_StringSearchingAssignment\x64\Debug\CMP201_StringSearchingAssignment.exe

@@ -1,0 +1,6351 @@
+English PSX
+"C'mon newcomer.
+Follow me."
+"Biggs
+Wow! You used to be in SOLDIER all right!
+…Not everyday ya find one
+in a group like AVALANCHE."
+"Jessie
+""SOLDIER? Aren't they the enemy?"""
+"Jessie
+""What's he doing with us in AVALANCHE?"""
+"Biggs
+""Hold it, Jessie. He WAS in SOLDIER."""
+"He quit them and now is one of us."
+"Biggs
+""Didn't catch your name..."""
+"Cloud
+""...Cloud."""
+"Biggs
+""Cloud, eh? I'm..."""
+"Cloud
+""I don't care what your names are.
+Once this job's over...I'm outta here."""
+"""The hell you all doin'!?
+I thought I told you never to move
+in a group!"""
+"""Our target's the North Mako Reactor.
+We'll meet on the bridge in front of it."""
+"""Ex-SOLDIER, huh?
+Don't trust ya!"""
+"Barret
+""If you push the Directional button while
+pushing the [CANCEL] button to run.
+( earlier marked X)"""
+
+"Wedge
+""I'll secure the escape passage.
+Concentrate on the mission,
+Cloud."""
+"Wedge
+""Geez, we're really gonna blow
+this huge furnace up?
+This'll be somethin' to see!"""
+
+"Barret
+""Yo! This your first time in a reactor?"""
+"Cloud
+""No. After all, I did work for Shinra, y'know."""
+"Barret
+""The planet's full of Mako energy.
+People here use it every day."""
+
+"Barret
+""It's the life blood of this planet.
+But Shinra keeps suckin' the blood out
+with these weird machines."""
+"Cloud
+""I'm not here for a lecture.
+Let's just hurry."""
+
+"Barret
+""That's it! You're comin' with me
+from now on."""
+
+"Jessie
+""Biggs and I got the code for this door."""
+"Biggs
+""Code deciphered"""
+"Biggs
+""Think how many of our people risked their
+lives, just for this code..."""
+"Jessie
+""Push that button over there!"""
+Switch On.
+
+"Barret
+""Little by little the reactors'll drain out
+all the life.
+And that'll be that."""
+"Cloud
+""It's not my problem."""
+"Barret
+""The planet's dyin', Cloud!"""
+"Cloud
+""The only thing I care about is finishin' this job
+before security and the Roboguards come."""
+
+"Jessie
+""Push the [OK] button in front of a ladder
+to grab on to it.
+After that, use the [Directional button]
+to move up and down."""
+
+"Barret
+""When we blow this place, this ain't gonna
+be nothin' more than a hunka junk."""
+"Barret
+""Cloud, you set the bomb."""
+"Cloud
+""Shouldn't you do it?"""
+"Barret
+""Jus' do it!
+I gotta watch to make sure
+you don't pull nothin'."""
+"Cloud
+""Fine, be my guest."""
+Watch out!
+This isn't just a reactor!!
+"Barret
+""......What's wrong?"""
+"Cloud
+""Huh?"""
+"Barret
+""What's wrong, Cloud?
+Hurry it up!"""
+"Cloud
+""...Yeah, sorry."""
+"Barret
+""Heads up, here they come!"""
+
+Cloud "Barret, be careful!"
+"Attack while it's tail's up!
+It's gonna counterattack with its laser."
+
+Cloud "It's gonna fire that laser..."
+"Attack while it's tail's up!
+It's gonna counterattack with its laser."
+
+Barret "I dunno what's goin' on, but...
+it looks pretty bad.
+Let's see what it does when it's tail's up..."
+
+"Cloud
+""Come on, let's get outta here!"""
+Ten minutes to detonation!
+
+"Cloud
+""You all right?"""
+"Jessie
+""My leg got stuck."""
+"Jessie
+""Thanks!"""
+
+"Biggs
+""That should keep the planet going...
+at least a little longer."""
+"Wedge
+""Yeah."""
+"Barret
+""........."""
+"Jessie
+""OK!
+Now everyone get back."""
+"Barret
+""All right, now let's get out of here."""
+"Barret
+""Rendezvous at Sector 8 station!
+Split up and get on the train!"""
+"Cloud
+""H, hey!"""
+"Barret
+""If it's about your money
+Save it 'til we're back at the hideout."""
+
+"Flower girl
+""Excuse me."""
+"Flower girl
+""What happened?""
+         You'd better get out of here
+          Nothing...hey, listen..."
+"(1) Flower girl
+""Really?
+I don't know what's going on,
+but all right."""
+"(2) Cloud
+""............""
+          Don't see many flowers around here
+          Never mind"
+"(1) Flower girl
+""Oh, these?
+Do you like them?
+They're only a gil...?"""
+"(2) Flower girl
+""What!
+Tell me!"""
+"Flower girl
+""Uh, excuse me, would you like
+to buy some flowers?
+They're only one gil."""
+"Buy one
+Forget it"
+"(1) Flower girl
+""Oh, thank you!"""
+"Flower girl
+""Here you are!"""
+
+"Just what the hell's going on!?"
+
+"""Wonder what that is on the wall over there.
+Let's see..."""
+"Don't be fooled by Shinra!
+Mako energy doesn't last forever!
+Mako is the planet's lifesource!
+The end is in sight!"
+Protectors of the planet: AVALANCHE
+
+"Soldier
+""Hey! You there!!"""
+"Cloud
+""Shinra Soldiers......""
+          Fight them!
+          Later!"
+"What the?"
+"Cloud
+""hmph!"""
+"Fight them!
+Later!"
+"Soldier
+""That's him!!"""
+"Cloud
+""hmph!"""
+"Fight them!
+Later!"
+"Soldier
+""Over here!!"""
+"Cloud
+""hmph!"""
+"Soldier
+""That's as far as you go."""
+"Cloud
+""I don't have time to be messin' around
+with you guys."""
+"Soldier
+""Enough babbling......
+Grab him!!"""
+
+"Wedge
+""Cloud never came."""
+"Biggs
+""Cloud......
+Wonder if he was killed?"""
+"Barret
+""No way!!"""
+
+"Jessie
+""Cloud......"""
+"Biggs
+""Say, do you think Cloud's......"""
+"""Going to fight to the end
+for AVALANCHE!?"""
+"Barret
+""The hell would I know!?
+Do I look like a mind reader?"""
+"""Hmph!!
+If y'all weren't such screw-ups..."""
+
+"Wedge
+""Hey, Barret!
+What about our money...?"""
+"Uh, nothin'...sorry."
+"Ahhh......"
+"Biggs
+""Cloud!"""
+"Jessie
+""Cloud......"""
+"Wedge
+""Cloud!!"""
+"Cloud
+""Looks like I'm
+a little late."""
+"Barret
+""You damn right, you're late!!"""
+"""Come waltzin' in here
+makin' a big scene!"""
+"Cloud
+""It's no big deal.
+Just what I always do."""
+"Barret
+""Shi't!"""
+"""Havin' everyone worried like that
+you don't give a damn 'bout
+no one but yourself!"""
+"Cloud
+""Hmm......
+You were worried about me!"""
+"Barret
+""Wha!?"""
+"""I'm takin' it outta
+your money, hot stuff!"""
+"Barret
+""Wake up!"""
+"""We're movin' out!
+Follow me!"""
+"Wedge
+""Hey, Cloud!!
+You were great back there!"""
+"Biggs
+""Heh heh......Cloud!
+We'll do even better next time."""
+"Jessie
+""Be careful,
+I'll shut this."""
+"Jessie
+""Oh, Cloud!!
+Your face is pitch-black......"""
+"Jessie
+""There you go!"""
+"Jessie
+""Say, thanks for helping me
+back there at the Reactor!"""
+
+"Last train out of Sector 8 Station.
+Last stop is Sector 7, Train Graveyard.
+Expected time of arrival is 12:23AM,
+Midgar Standard Time..."
+"""This is why I hate the last train.
+Hoo-boy..."""
+
+"""Huh...?
+This is my house,
+so make yourselves at home."""
+
+"You see the headlines in the Shinra Times?"
+"""The terrorists that bombed
+the No.  1 Reactor are based
+somewhere in the slums."""
+"""...blowing up a Reactor...
+they sure put some thought into this one."""
+"""They must have a real calculating leader.
+I wonder what they'll do next?"""
+
+"Barret
+""Stop actin' like a damn kid.
+Si'down an' shu'up!"""
+
+"""Please!!
+You're bothering the other passengers."""
+
+"Biggs
+""It seems this train hasn't switched
+to security mode yet."""
+"I'm sure that will change by tomorrow."
+"Biggs
+""...YAWN...that sure took its toll on me.
+I'm gonna sleep till we get to the station."""
+
+"Wedge
+""Someday AVALANCHE's gonna be famous
+...and me, too!"""
+"Wedge
+""Cloud!!"
+"""Don't ya think I got a bright future
+ahead of me?""
+          What do you have in mind?
+          I wouldn't hold my breath"
+"(1) Wedge
+""All my life, I felt like nothin' but a sidekick."""
+"""But, after joinin' AVALANCHE and
+tryin' to save the Planet,
+I feel like I can do lots of things."""
+"(2) Wedge
+""Oh man,
+that's pretty harsh, Cloud."
+You really think I won't?"
+
+"Jessie
+""Hey, Cloud.
+You want to look at this with me?"""
+"""It's a map of the Midgar Rail System.
+Let's look at it together.
+I'll explain it to you."""
+"Jessie
+""I like this kinda stuff.
+Bombs and monitors...you know,
+flashy stuff."""
+"Jessie
+""Okay, it's about to start."""
+"Jessie
+""This is a complete model
+of the city of Midgar."""
+"It's about a 1/10000 scale."
+"""The top plate is about 50 meters
+above ground."""
+"""A main support structure holds
+the plate up in the center,
+and there are other support structures"
+built in each section..."
+"""psst...whisper...whisper...
+( The No.  1 Reactor we blew up
+was in the northern section. )"""
+"""Then there's No. 2, No. 3 all the way up to
+the No. 8 Reactor."""
+"""The 8 Reactors provide Midgar
+with electricity."""
+"""Each town used to have a name,
+but no one in Midgar remembers them."""
+"""Instead of names, we refer to them
+by numbered sectors.
+That's the kind of place this is."""
+"Jessie
+""Phew..., this is next!
+Look."""
+"Jessie
+""This is the route this train is on."""
+"""The route spirals around
+the main support structure."""
+"""We should be coming around
+the center area, right now."""
+"""At each checkpoint,
+an ID sensor device is set up."""
+"""It can check the identities and
+background on each and
+every passenger on the train"
+"by linking it up to the central data bank
+at Shinra headquarters."""
+"""whisper...whisper...
+( Anyone could tell that we look suspicious,
+so we're using fake ID's. )"""
+"Jessie
+""Speak of the devil..."""
+"""That light means that
+we're in the ID Security Check area."""
+"""...whisper...whisper...
+( When the lights go off,
+you never know what kind of"
+creeps'll come out. )"
+"""...anyhow, we're almost back now.
+That's a relief."""
+
+"Jessie
+""I know!"""
+"""Next time,
+I'll give you one I made myself.""
+          Thanks anyway
+          Looking forward to it"
+"(1) Jessie
+""Oh yeah, you might regret it.
+I'm the type who takes things personal."""
+"(2) Jessie
+""Okay, then I'll put a little extra effort in
+and make it with a BANG."""
+"(end) Jessie
+""We're almost there.
+After talking with you,"
+I really want to do it!"
+"I think you've lit my fuse!"
+
+"Wedge
+""I'm seein' stars.
+This sucks. I hate the dark."""
+
+"Biggs
+""...snore...heebeebeeheebee...snore...
+( Don't act so damn big,
+Barret...snooze... )"""
+
+"Barret
+""Look...you can see the surface now.
+This city don't have no day or night."""
+"""If that plate weren't there...
+we could see the sky."""
+"Cloud
+""A floating city...
+Pretty unsettling scenery."""
+"Barret
+""Huh?"""
+"""Never expect ta hear that outta
+someone like you."""
+"...you jes' full of surprises."
+"Barret
+""The upper world...a city on a plate..."""
+"""It's cuz of that &^#$# 'pizza',
+that people underneath are sufferin'!"""
+"Barret
+""And the city below is full of polluted air."""
+"Barret
+""On topa that,
+the Reactor keeps drainin' up
+all the energy."""
+
+"Cloud
+""Then why doesn't everyone
+move onto the Plate?"""
+"Barret
+""Dunno.
+Probably 'cuz they ain't got no money.
+Or, maybe..."""
+"""'Cuz they love their land,
+no matter how polluted it gets."""
+"Cloud
+""I know...
+no one lives in the slums"
+because they want to."
+"""It's like this train.
+It can't run anywhere except
+where its rails take it."""
+
+"Barret
+""Yo!!
+Get over here, all'ya!!"""
+
+"""When you've been a train man as long as I have,
+you see a lot of people
+and a lot of lives."""
+"""People meeting, parting, joy, sadness...
+After a while,
+it doesn't even get to you anymore."""
+"""I wonder how long it's been...
+There's an invisible rail
+between me and the passengers."""
+"""I could never live their lives.
+I'm just a train man plain and simple.
+It's easier that way."""
+"""That's not to say that the crossing gate
+of my heart doesn't hurt now and again."""
+"""Back during the war, I remember there
+was a lot of painful scenes then."""
+"""But, that's a story for
+another day..."""
+"First train leaves Midgar at 05:04am."
+
+"Barret
+""This mission was a success.
+But don't get lazy now."""
+"""The hard part's still to come!
+Don't y'all be scared of that explosion!"""
+"Barret
+""Cause the next one's
+gonna be bigger than that!"""
+"Barret
+""Meet back at the hideout!!
+Move out!"""
+
+"I'm not letting you go tonight."
+"Wow!"
+"""Isn't there somewhere
+we could go to be alone?"""
+"Wow!"
+"""There's only the train graveyard around here.
+And they say there's ghosts around too!"""
+"...... . damn."
+"What?"
+
+"""What the hell do you want?
+You know who I am?"""
+"""You can't pass.
+I got the miserable job of keepin'
+scum like you from trying to sneak in here."""
+
+"W, wow! You're great!!"
+"""Damn right!!
+Don't waste time talkin's,
+what I always say!"""
+"But, uh, I......"
+
+"""Hey now!!
+Oops!!"""
+"""What on earth are you doing?
+Just butt out......geez!"""
+"""Huh?
+You come to see it, too?"""
+"""There was a bombing on top.
+If this pillar should come down,
+everyone in the slums is dust..."""
+"""Well,
+there's no point in worryin' about that."""
+"""Hey!! Look!
+It's huge, ain't it?"""
+"""Hey...
+This is a strange and wonderful place."""
+"""This is my place,
+but you can come here when you want.
+Bye, bro!"""
+
+"Barret
+""Yo, Cloud!
+Over here, now!"""
+
+"Barret
+""Heh heh..."""
+"""You wanna meet your little baby?""
+          Little baby?
+          Out of my way!"
+"(1) Barret
+""Hey!
+Don't act like you don't know what I mean!"""
+"I'm tellin' you..."
+"(2) Barret
+""Heh!
+Jes calm down."""
+"Can't have people suspectin' us."
+
+"""Explosions! Explosions!
+Oh Man!
+AVALANCHE is so cool!"""
+
+"""Did you hear?""
+          Don't care
+          No, what?"
+(1) "Oh, well excuse ME!"
+"(2) ""There's a news update.
+They say that there was a terrorist explosion
+up above, and that this time
+it was a Mako Reactor!!"""
+"""You know what this means?""
+          Don't care
+          No, what?"
+(1) "Oh, well excuse ME!"
+"(2) ""Ya see, I keep on top of these things,
+an' if ya ask me......"""
+"""If you knock out Midgar's power,
+then all of its computers and signals are
+going to be knocked out too."""
+"""Financially there must've been about
+a billion gil worth of damage."""
+"""An' that ain't all!
+A lotta innocent people got killed too!"""
+"""If the explosion had been in the middle
+of the night, that woulda been one thing.
+At least the people coulda gone in their sleep."""
+"""This Mako explosion has really
+sent Midgar into a fit."""
+
+"""I'm not opening up.
+Go away!!"""
+
+"""Oh Jesus!!
+What the hell's wrong tonight!!"""
+"""I thought that long blackout
+was strange."""
+"""They say a Mako Reactor was
+destroyed above."""
+"""I was jes sittin' here drinkin',
+watchin' the news by myself."""
+"""'n' all of a sudden
+I get kicked outta the &*%$ store.
+What's up with that!?"""
+"""I wasn't even done with my drink.
+I didn't even pay my bill..."""
+
+"""Woo......ah geez, I'm blitzed.
+I jes love them homemade cocktails.
+But they sure do creep up on ya."""
+
+"Hey!! What the, YOU?"
+"""Anyone talking to me must be a novice.
+          Yep, that's me
+          I used to be with SOLDIER,
+             the name's Cloud"
+"(1) Cloud
+""So what.
+Everyone's a beginner sometime."""
+"""Don't act so big, amateur.
+Seein' as how I'm such a warm hearted guy,
+I'll show ya the ropes."""
+"""You come back here tomorrow.
+I got some things I gots ta do."""
+"(2) Cloud
+""The name's Cloud.
+Used to be with SOLDIER,"
+I got no business with you."
+"""Hmmph!!
+Well, I never heard of ya!"""
+
+"""You dried up old geez.
+You tired?"""
+"""Why don't you rest up
+on the third floor of my house?"""
+"There's just one condition."
+"""You gotta give me some cash.""
+          1 gil
+          10 gil
+          nothin'"
+(3) "Cheap %#*^..."
+
+"He, HEY! Waitaminit you!!"
+"""You can't just walk outta here
+without buyin' somethin'..."""
+"""Might be unhealthy fer ya,
+if ya know what I mean."""
+
+"""Unn......!!
+Who the hell are you!?
+No unauthorized access."""
+"""Since today's special,
+I'm gonna let you in on a juicy bit of news.
+But you gotta keep it to yourself."""
+"""Do you know about what's been going on......?""
+          What, that again?
+          ............"
+"(1) ""I guess you must be sick of hearing it...
+But it's been so long
+since there was any real news here."""
+"You're worried where it's all heading, right?"
+"(2) ""Everything's in a buzz 'bout that
+terrorist group AVALANCHE
+blowin' up the Sector 1 Mako Reactor."""
+"""On the surface they say
+they're an anti-Shinra group,
+but in reality..."""
+"""They say they're just out to kill
+as many people as they can."""
+"Gyaaaa, Haaa haaa!!"
+"""That's a good one, ain't it!?
+While they're bustin' things up on top,
+the only ones makin' out"
+good are us weapon stores!"
+"""Now, if we can just get rid of this back stock,
+we'll be doin' ok."""
+
+"""You know what I do?
+I'll bet you don't."""
+"You come here tomorrow and I'll tell you."
+"""Ahh, there just ain't no good jobs
+here in the slums."""
+"I wanna go to the upper world."
+
+"""This is a slum, so don't think you can stay
+for free."""
+"What are you going to do?"
+"""Doesn't just seeing the bed make you sleepy?""
+          10 gil
+          no way"
+"(2) ""Tough guy, huh!?
+You'd better sleep when you can."""
+"You'd better save when you can."
+"""That's the trick to being tough.
+Remember that, old dude."""
+
+"""We're closed today.
+Come back tomorrow."""
+
+"Barret
+""Ok!
+Go on ahead."""
+"Barret
+""You! Cloud!!
+Get off your slow-movin' ass!!"""
+
+"Papa!!"
+"""Marlene!
+Aren't you going to say anything
+to Cloud?"""
+"""Welcome home, Cloud.
+Looks like everything went well."""
+"""Did you fight with Barret?""
+          Yeah
+          Not this time"
+(1) "I should have known."
+"""He's always pushing people around,
+and you've always been in fights
+ever since you were little."""
+"I was worried."
+"(2) ""Hmm.
+You've grown up."""
+"""When you were little you used to get into
+fights at the drop of a hat."""
+(No flower)
+"Tifa
+""I'm so glad everyone's safe."""
+(Flower)
+"Tifa
+""Flowers?
+How nice..."""
+"""You almost never see them
+here in the slums."""
+"Tifa
+""But..."""
+"""A flower for me?
+Oh Cloud, you shouldn't have..."""
+"Cloud
+""No big.""
+          Give it to Tifa
+          Give it to Marlene"
+"(1) Tifa
+""Thank you, Cloud.
+It smells wonderful."""
+"""Maybe I should fill the store
+with flowers."""
+
+"Marlene
+""............"""
+
+"Tifa
+""Sorry, Cloud.
+Marlene seems a little shy."""
+
+"Biggs
+""Aaah!!
+Nothin' like that first drink after a job."""
+"Biggs
+""Hic!!"""
+"""Why don't you have one too?""
+          No
+          Yeah, why not?"
+"(1) ""What!? You tellin' me
+you're too good to drink with me?"""
+"""Don't act big-headed jus' because you were
+in SOLDIER!"""
+"(2) Biggs
+""Oh!!
+That's more like it!!"""
+"""Even if you were with SOLDIER,
+you're still a rookie here.
+So you'd better listen to whatever I tell ya!"""
+"Biggs
+""Hic...!!"""
+"""Oh......
+Don't tell Barret what I jus said."""
+
+"Wedge
+""Oh, Cloud!"""
+"""Tifa really knows how to cook.
+Mmm, mmm......"""
+"""Anyway, let me tell you somethin'""
+          About what?
+          I'm not interested in your stories"
+"(1) ""Tifa always lets me
+taste her cooking."""
+"And look at me now, I'm rolly-polly."
+"""Don't know whether I should be happy or sad.
+But it's the good food and drinks that make
+this shop famous."""
+"(2) ""Cloud......
+......forget it."""
+
+"Jessie
+""Careless......
+You're getting all excited."""
+"Wonder what for......?"
+
+"Marlene
+""Papa, welcome home!"""
+(branch if Marlene has flower)
+"Barret
+""Yeah."""
+"Barret
+""Huh?
+Where'd you get that flower?"""
+"Marlene
+""Cloud gave it to me."""
+"Barret
+""Oh......"""
+"Barret
+""Did you thank him?"""
+"............"
+"Marlene
+""Thank you, Cloud."""
+"We'll take care of you."
+(end branch)
+"Tifa
+""You all right, Barret?"""
+"Barret
+""Great!!"""
+"Barret
+""Get in here, fools!!
+We're startin' the meetin'!!"""
+
+"Tifa
+""Sit down."""
+"Tifa
+""How about..."""
+"""...something to drink?""
+          I don't feel like it
+          Give me something hard"
+"(1) Tifa
+""OHH!!"""
+"""I can make a drink just
+as good as anyone else."""
+"Everyone says, my drinks taste the best!"
+"(2) Tifa
+""Just a minute.
+I'll make one for you."""
+"Tifa
+""You know, I'm relieved you made it back
+safely."""
+"Cloud
+""What's with you all of a sudden?
+That wasn't even a tough job."""
+"Tifa
+""I guess not..."""
+"You were in SOLDIER."
+"Tifa
+""Make sure you get your pay
+from Barret."""
+"Cloud
+""Don't worry.
+Once I get that money, I'm outta here."""
+"(end) Tifa
+""Cloud.
+Are you feeling all right?"""
+"Cloud
+""...yeah...
+Why?"""
+"Tifa
+""No reason.
+You just look a little tired I guess."""
+"Tifa
+""You'd better go down below."""
+
+"Jessie
+""Oops..."""
+"""Hey, look at the news...
+What a blast."""
+"""Think it was all because of my bomb?
+But all I really did was just make it
+like the computer told me."""
+"""Oh no!
+I must've made a miscalculation somewhere."""
+"Jessie
+""Hey, that was my bomb's debut.
+Makes me kinda proud."""
+
+"President Shinra
+"".........today the No. 1 Reactor was bombed.
+The terrorist group AVALANCHE has claimed"
+responsibility for the bombing."
+"""It is expected that AVALANCHE will
+continue its reign of terror."""
+"""But citizens of Midgar, there is no
+need to fear."""
+"""I have immediately mobilized SOLDIER to protect
+our citizenry against this senseless violence.
+Thank you and good night."""
+
+"Wedge
+""You think I'm a little too uptight?""
+          Yeah...
+          No..."
+"(1) ""The next mission will be
+to blow up the Sector 5 Reactor."""
+"""Cloud, you're great!
+Don't you ever get nervous?"""
+"""Or are you like, impervious to feelings?
+Naw, that couldn't be it."""
+"(2) ""Well, that's ok. Don't worry about me.
+I don't look like it,
+but I'm a coward at heart."""
+
+"Barret
+""Yo, Cloud!
+There's somethin' I wanna ask ya."""
+"""Was there anyone from SOLDIER
+fighting us today?"""
+"Cloud
+""None.
+I'm positive."""
+"Barret
+""You sound pretty sure."""
+"Cloud
+""If there was anyone from SOLDIER
+you wouldn't be standing here now."""
+"Barret
+""Don't go thinkin' you so bad jes cuz
+you was in SOLDIER."""
+"Cloud
+""............"""
+"Barret
+""Yeah, you're strong."""
+"Probably all them guys in SOLDIER are."
+"""But don't forget that
+your skinny ass's workin'
+for AVALANCHE now!"""
+"""Don't get no ideas
+'bout hangin' on to Shinra."""
+"Cloud
+""Stayin' with Shinra?"""
+"""You asked me a question
+and I answered it...that's all."""
+"Cloud
+""I'm going upstairs.
+I want to talk about my money."""
+
+"Barret
+""Shucks!!
+............money..."""
+
+"Marlene
+""Papa,
+you're so great!"""
+
+"Tifa
+""Wait, Cloud!"""
+"Barret
+""Tifa!
+Let him go!"""
+"Looks like he still misses the Shinra!"
+"Cloud
+""Shut up!"""
+"""I don't care about either Shinra
+or SOLDIER!"""
+"But don't get me wrong!"
+"""I don't care about AVALANCHE or
+the Planet for that matter!"""
+
+"Tifa
+""Straighten things up
+with everyone for me."""
+
+"Jessie
+""Money..."""
+"""Oh my.
+It must have been for a lot of it."""
+"""Sure!
+Well, what the hell? It's a verbal agreement.
+Now let me figure this out."""
+"""Oh stop it, Cloud!
+Did you hear me?"""
+
+"Wedge
+""......Cloud."""
+"""You say you don't care,
+but you came to talk to me."""
+"""Cloud...
+You just want friends."""
+"""Isn't that right?""
+          Blow off
+          I really don't care"
+"(1) ""Yeah, well.
+You look kind of lonely to me."""
+"""If you ever got anything you want to
+get off your chest,
+you can always talk to me."""
+"(2) ""You're terrible.
+Real cold blooded."""
+
+"Tifa
+""Listen, Cloud. I'm asking you.
+Please join us."""
+"Cloud
+""Sorry Tifa..."""
+"Tifa
+""The Planet is dying.
+Slowly but surely it's dying."""
+"Someone has to do something."
+"Cloud
+""So let Barret and his buddies
+do something about it."""
+"It's got nothin' to do with me."
+"Tifa
+""So!
+You're really leaving!?"""
+"Tifa
+""You're just going to walk right out
+ignoring your childhood friend!?"""
+"Cloud
+""What......?""
+          How can you say that!
+          ......Sorry"
+"(1+2) Tifa
+""......You forgot the promise, too."""
+"Cloud
+""Promise?"""
+"Tifa
+""So you DID forget."""
+"Tifa
+""Remember......Cloud.
+It was seven years ago..."""
+"Tifa
+""Look, the well."""
+"Do you remember?"
+"Cloud
+""Yeah...back then."""
+"Cloud
+""I thought you would never come, and
+I was getting a little cold."""
+"Tifa
+""Sorry I'm late."""
+"Tifa
+""You said you wanted to
+talk to me about something?"""
+"Cloud
+""Come this spring...I'm leaving this
+town for Midgar."""
+"Tifa
+""...All boys are leaving our town."""
+"Cloud
+""But I'm different from all of them.
+I'm not just going to find a job."""
+"Cloud
+""I want to join SOLDIER."""
+"Cloud
+""I'm going to be the best there is,
+just like Sephiroth!"""
+"Tifa
+""Sephiroth...
+The Great Sephiroth."""
+"Tifa
+""Isn't it hard to join SOLDIER?"""
+"Cloud
+""...I probably won't be able to come
+back to this town for a while."""
+"Cloud
+""...huh?"""
+"Tifa
+""Will you be in the newspapers if you do well?"""
+"Cloud
+""I'll try."""
+"Tifa
+""Hey, why don't we make a promise?"""
+"Tifa
+""Umm, if you get really famous and
+I'm ever in a bind......"""
+"You come save me, all right?"
+"Cloud
+""What?"""
+"Tifa
+""Whenever I'm in trouble, my hero will
+come and rescue me."""
+"I want to at least experience that once."
+"Cloud
+""What?"""
+"Tifa
+""Come on--!
+Promise me----!"""
+"Cloud
+""All right......I promise."""
+"Tifa
+""You remember now, don't you...
+our promise?"""
+"Cloud
+""I'm not a hero and I'm not famous.
+I can't keep......the promise."""
+"Tifa
+""But you got your childhood dream, didn't you?
+You joined SOLDIER."""
+"Tifa
+""So come on!
+You've got to keep your promise......"""
+"Barret
+""Wait a sec big-time SOLDIER!"""
+"Barret
+""A promise is a promise!
+Here!!"""
+Received Barret's stash, 1500 gil!
+"Cloud
+""This is my pay?
+Don't make me laugh."""
+"Tifa
+""What? Then you'll...!!"""
+"Cloud
+""You got the next mission lined up?
+I'll do it for 3000."""
+"Barret
+""What......!?"""
+"Tifa
+""It's ok, it's ok."""
+"Tifa
+""psst, psst......
+( We're really hurting for help, right? )"""
+"Barret
+""Uh......ugh......
+( That money's for Marlene's schoolin'...... )"""
+"Barret
+""2000!"""
+"Tifa
+""Thanks, Cloud."""
+
+"Tifa
+""Good Morning! Cloud!"""
+"""Did you sleep well?""
+          Barret's snoring kept me up......
+          Next to you, who wouldn't?"
+"(1) Tifa
+""psstpsst..."""
+"""( keep it down, they'll hear you.
+Barret's always edgy
+before an operation. )"""
+"(2) Tifa
+""I don't know what you mean."""
+"(end) Tifa
+""I'm going this time."""
+
+"Barret
+""Our target's the Sector 5 Reactor.
+Head for the station first."""
+"I'll fill you in on the train."
+"Barret
+""Yo! Cloud!"""
+"""Before the next mission,
+I got somethin' I wanna ask you!"""
+"""I, uh, ......
+I don't really know how to use Materia!"""
+"""I'll give you that Materia you found.
+Just teach me how to use it!"""
+"Cloud
+""...sigh...""
+          Ok, I'll explain it
+          You wouldn't understand"
+(1) Sure, I'll explain how Materia works.
+First, access the menu.
+You know the basic functions.
+The triangle button brings up the menu.
+Directional buttons move the cursor,
+like this.
+Select each menu by using the OK button.
+If you want to leave the menu,
+just push the CANCEL button.
+See? Let's go ahead.
+Now you're in this menu.
+Select [Materia] sub menu.
+Select who you want to use it.
+Now look at my weapon here.
+Each weapon and armor has slots in it.
+Choose which slot you want to put Materia in.
+Now select the Materia you want to use.
+This is curative Materia.
+If you want to know what its effect is,
+line the cursor up with [Check],
+and push the OK button.
+It's just like selecting battle commands.
+Just line the cursor up to [Magic],
+you can see that the available magic has increased.
+Now you can use new magic [Cure].
+And that's all there is to equipping Materia.
+See? It wasn't that tough!
+When you want to remove any Materia,
+it's as easy as pointing to the materia slot,
+and pushing the triangle button.
+There's just one thing you have to be careful of.
+Whenever you equip Materia,
+your situation changes.
+Parts of you may become stronger...
+while others get weaker.
+Normally, when you equip [Magic] Materia,
+your magic power will get stronger.
+But your physical strength weakens.
+So, Materia's kind of a double-edged sword.
+On the left side of the screen,
+you can see the Materia's effect on you.
+It's wise not to overuse Magic Materia.
+But try out various things.
+Push the CANCEL button to exit the sub menu.
+Ok, that's about it.
+I'll give you some advanced tips later.
+"Barret
+""Shi......! What's this
+'It wasn't that tough!' crap!"""
+"I'm clueless......"
+"Well, you handle the Materia then!"
+"(2) Barret
+""So this is what makes them guys
+in SOLDIER so great, huh!?"""
+"""Ok. I'll ask Jessie again later.
+But you're in charge of the Materia!"""
+"(end) Tifa
+""Cloud! I got a message
+from the Weapon Shop man upstairs."""
+"""He has something he wants to give you.
+Don't forget!"""
+"Tifa
+""Marlene,
+you watch the store while we're gone!"""
+"Marlene
+""All right!!
+Good Luck."""
+
+"I hope he doesn't get hurt."
+"That worries me the most."
+
+"""Yesterday, everyone in town was
+peeking at the two of you
+from outside the bar."""
+"""Tifa's childhood friend.
+That's a good one!"""
+
+"""Ahh!
+Now I ain't got no one to pick on!"""
+
+"Johnny
+""I'm leaving. Goin' faraway.
+But when I come back"
+I'll be a better man! This is goodbye!"
+"""Hey! Childhood friend!
+You better take
+good care of Tifa!"""
+
+"""He used to give us nothing but headaches
+when he was here,
+but now that he's gone...I kind of miss him."""
+"......strange, isn't it?"
+
+"""Ha! Ha! ......
+I wonder if my son's already left?"""
+"""When it's just my wife and I here,
+you have no idea how lonesome it gets."""
+"""You want them to be happy
+and do what they want while they're young,
+but being a parent, you can't help but worry..."""
+"I guess I'm not cut out to be a parent yet."
+"By the way......"
+"Where are you from?"
+"
+          A village called Nibelheim
+          Who cares?"
+"(1) ""Hm......you said Nibelheim?
+Wasn't it in the news a while back?"""
+"Something to do with a Reactor accident..."
+"""That was the first major Mako accident,
+so I remember it really being a hot topic."""
+"(2) ""Ha, Ha! ...... Well,
+there's nothin' wrong with that, I'd say."""
+"""But if you still have a family,
+You outta at least write them."""
+"""Even though you may turn your back
+on your hometown,
+It'll always be there for you."""
+"Least that's how I see it."
+"(end) ""Well,
+you mind leaving the two of us alone?"""
+"""I want to enjoy some quiet time
+together with my wife."""
+
+"""Ah...Johnny's gone.
+You look a little disappointed."""
+"""I don't like to say it myself but,
+I'm just a lonely guy
+when I'm not drinking."""
+
+"""Listen!
+If there isn't anyone to listen,
+what's the use of"
+getting gossip on everyone!?"
+"Yeah, and you Mr. I-don't-care!"
+"""I'll get a little more information that would
+poque even your interest.
+You wait and see!"""
+
+"""When it comes down to it...I'm gutless.
+I'm still just a no good kid."""
+
+"""Heh heh...He'll forget about it.
+OH, you!!"""
+"""Get my friend on the second floor
+to teach ya."""
+
+"This is the Beginner's Hall."
+"""You say you're a beginner?
+But your eyes say you're not."""
+"Cloud
+""Don't mess with me. I used to be in SOLDIER.
+I'll tell you how much I know...
+an' for free too!"""
+"Cloud
+""What do you want to know?""
+          How to save?
+          How to heal your allies?
+          Curative Magic?
+          Weapons and armor?
+          How to apply Materia?
+          Effective ways to use Materia?
+          How to form your battle party?
+          How to check your status?
+          About Limit status?
+          Other things to watch for?
+          That's all"
+
+"How to use the buttons."
+L1/R1 button: To turn quickly.
+"[Directional button]          [Button]
+          up                               △: menu
+left            right    : walk  ☐         〇: speak/execute
+         down                            X: run"
+"[How to reset]
+L1&L2&R1&R2&SELECT&START button.
+Push any of those buttons together
+to reset the game. ( only works on the field. )"
+"Cloud
+""Huh? Finger!?
+What the hell?"""
+"""I'm the position cursor!!
+Call me whenever you're walking
+around confused!"""
+"""Push the [SELECT] button
+and I'll appear over your shiny little head."""
+"Cloud
+""Geez, you stand out even more than I do..."""
+"""Am I in the way?
+If so, just push the [SELECT] button
+one more time."""
+"""I'm pretty busy myself,
+and can't always come when you need me.
+If I don't show up sometimes, don't get mad."""
+"Later!"
+"[Position Cursor]
+   Push the [SELECT] button
+   when you're lost in the field.
+   Usually, the [Position Cursor] will
+   appear on the screen."
+"But wait!!
+   [Red triangles] mark the exits and
+   [Green triangles] mark ladders.
+   These will help you safely make it through even
+   the darkest streets or dangerous mountains!"
+"But, there are times when it won't appear,
+so be careful."
+
+"""Hey!!
+You got one right off!"""
+"""That was Materia.
+Next, take this [treasure chest]!"""
+Received "Ether"!
+"""Now listen,
+Hidden in these treasure chests,
+are a lot of items"""
+"""There are box types and bag types,
+so make sure you don't overlook any."""
+
+"This is the fabled [Save Point]!!"
+"""At a [Save Point]
+you can use a [tent] and/or select ""SAVE""."""
+"""There's more, too.
+Look for something called secret."""
+"""Even if you are wiped out,
+if you save you can restart
+from that same point."""
+"""That way you don't have to worry
+when you've been wiped out."""
+"""This is jumping ahead a little but,
+when you leave Midgar..."""
+"""Once you get the world map,
+you can save anywhere you like.
+Remember that."""
+"That should be all you need to know about
+the Save Point."
+"I'll probably see you again somewhere
+on the road."
+Take care!
+"I'm a [treasure chest]!!
+Beginners make sure and keep an eye out for me!!"
+
+"""Hey SOLDIER!!
+Tell us about battles!
+We'll even pay you!"""
+"Cloud
+""I'm not hard up enough
+to take money from guys like you.
+But I'll rap with you for a while."""
+"""Cloud
+""""What do you want to know?""""
+          About ATB
+          The numbers on the screen
+          About [change] and [defend]
+          About [Escape]
+          About the gauges
+          About [status]
+          About [elementals]
+          About [help]
+          That's all the time I have for you!"
+
+"......smack......knock......!!"
+"Help!"
+"Cloud
+""You've got to hang in there.
+You're limit gauge is just starting to build."""
+"Waaaah!!"
+"Cloud
+""Ok! Now your limit gauge is full,
+go ahead and use it!
+Fight with your limit technique."""
+"Cloud
+""Great!"""
+"""Magic!!
+Magic!!"""
+"Help!"
+"Cloud
+""Calm down!
+When your enemy uses magic
+counter with [Magic Barrier] or [reflect]."""
+"""[Magic Barrier] reduces the damage
+received from magic by half."""
+"""[reflect] bounces the attacks off you.
+But the number of times you can use it
+is limited so be careful."""
+"Cloud
+""Great!"""
+"""Wow! You sure are strong!
+I'm going to be strong, too!"""
+"Me too!"
+"Cloud
+""If you want to get as strong as me
+you need to use Materia."""
+"""And you have to find the best combinations
+of them."""
+"""The type of Materia you put in
+your weapons and armor will determine
+how quickly your Materia grows."""
+"""Put Materia into the open slots
+in your weapons and armor.
+The possible combinations are limitless."""
+"""That's about all I can tell you.
+If you want to be like me, you have
+to have some natural talent."""
+"I still don't get it!"
+"I still don't get it!"
+"Cloud
+""Listen kid, don't piss me off!"""
+"""That's all right. Just give it a try.
+Little by little, you'll get used to it."""
+
+"""Ahh...
+Another slow day......"""
+"If this keeps up, this store's goin' under..."
+"""Can't sell any really good medicine
+in a slum like this."""
+"""Oh!! Look at this!
+This doesn't happen everyday.
+You a......customer?"""
+"""Yes!! Welcome!!
+We sell !
+We buy!"""
+
+"""HALT!!
+No one is allowed to pass!!"""
+
+"""You know, I got some tickets to
+""Loveless"", do you want to go?"""
+"""What're you, retarded?
+Midgar's under martial law now!"""
+"""You mean, you really are concerned
+for me?"""
+"""Hell no!!
+But in case you forgot,
+we're in the middle of a slum."""
+"""They could be anywhere around,
+so stay on your guard."""
+"Right. You mean the AVALANCHERS?"
+"""Don't you worry.
+SOLDIER has been added to the police force."""
+"""Boy, it's been a while since SOLDIER's been
+mobilized, hasn't it?"""
+"""I ever tell you that I flunked the
+SOLDIER entrance exam?"""
+"""Damn right!!
+blahblahblah......."""
+"""Hey shut up for a minute
+and let me get back to work!"""
+"............sigh."
+"""What are you more scared of...
+AVALANCHE or me?"""
+"Oh, you, of course."
+
+"I've had it!"
+"Me too."
+"""You know this is the first time,
+we've ever agreed on something."""
+"Yes......"
+"Well then, shall we......?"
+"Yes......"
+"urggh............"
+"huff......wheez"
+
+"""Morning.
+Dawn comes and things never change."""
+"""You be careful not to get hurt.
+Come on back again, hear?"""
+"""ALL ABOARD!
+The train is about to depart."""
+
+"Barret
+""YO!"""
+"""Looks like this ain't no private car!!
+So split up!!"""
+"""...hoodlums again.
+God, don't I just have all the luck..."""
+"Barret
+""You say sumthin'?"""
+"Barret
+""I said, 'you say sumthin'!?"""
+"Barret
+""Yo, look at that!!
+It got empty alluva sudden."""
+"What's goin' on?"
+"DAMN!!"
+"""I...it's empty because of...
+g, guys like you..."""
+"Y, Y, YIPES!!"
+"""You...you've seen the news, right?
+AVALANCHE says there'll be more bombings."""
+"""Only devoted employees like me
+would go to Midgar on a day like today."""
+"Barret
+""You workin' for Shinra?"""
+"Shinra Manager
+""I won't give in to violence...
+and I'm not giving you my seat either!"""
+"Tifa
+""Barret!!"""
+"Barret
+""&$#%!!
+You lucky ^$#^$.!"""
+"Cloud
+""So, what are we gonna do now?"""
+"Barret
+""Shit! The hell you so calm about?
+You bustin' up my rhythm..."""
+"Tifa
+""Seems like they just finished
+connecting the cars.
+We're finally leaving."""
+"Cloud
+""So what's our next target?"""
+"Barret
+""Hah! Listen to
+Mr. Serious-about-his-work!"""
+"Barret
+""Awright...I'll tell ya!"""
+"""Jessie's probably already told you,
+but there's a security check point
+at the top plate."""
+"""It's an ID scan system
+checkin' all the trains."""
+"Tifa
+""Which Shinra is very proud of."""
+"Barret
+""We can't use our fake ID's
+anymore..."""
+"Good Morning, and welcome to Midgar lines.
+Arrival time at Sector 4 Station will 11:45."
+"Tifa
+""That means we've got only three
+more minutes to the ID Check point."""
+"Barret
+""Alright, in three minutes,
+we're jumpin' off this train."""
+"Got it!?"
+"Tifa
+""Cloud, come over here!
+Let's look at the Railway Map Monitor."""
+
+"""Hmmm......?
+You're the only ones that'll talk to me
+or come to my house."""
+"I'm impressed."
+
+"Shinra Manager
+""Waaaaah!!"""
+"""Don...don't worry about me.
+( oh man, oh man, oh man...!!
+I'm gonna brag to everyone
+at work about this... )"""
+
+"Barret
+""Yo, Mr. know-it-all, big time SOLDIER!
+You oughta know the area 'round
+the No. 5 Reactor, right!"""
+"So let's hear YOUR explanation!"
+
+"Tifa
+""Hmm, it looks like
+you've seen this already..."""
+"It's all right. Come a little closer."
+"Tifa
+""That's odd.
+The ID Check Point was supposed
+to be further down."""
+Type A Security Alert!!
+"Unidentified passengers confirmed...
+A search of all cars will be conducted!"
+"Repeat!!
+Type A Security Alert!!"
+"Unidentified passengers confirmed...
+A search of all cars will be conducted!"
+"Tifa
+""What's happening?"""
+"Barret
+""What's goin' on!!"""
+"Jessie
+""We're in trouble."""
+"""I'll explain later.
+Hurry! Get to the next car!"""
+"Barret
+""^%#@%!
+Someone blew it..."""
+"Unidentified passengers located in Car #1
+Preparing for Lock Down"
+"Barret
+""Let's go!
+Keep it up!"""
+
+"""Hm? ...
+You'd talk to me even now?"""
+"""I'm really impressed.
+Let me give you
+a little something as a reward."""
+"""If I die in the gutter,
+use that to revive me, okay?"""
+
+"Car #1: Locked Down
+Car being sent to the Station"
+
+"Barret
+""C'mon!! Hurry your slow ass up!
+That's it, huh?"""
+"Tifa
+""Oh well..."""
+"Barret
+""We're gonna jump outta here!!
+Follow me!!"""
+"Tifa
+""We got a lot of battles ahead of us.
+This's going to be tough."""
+"Barret
+""Oh man......
+We were forced to get this far out."""
+"Barret
+""We can't just go back now.
+We've gotta go on."""
+"Barret
+""Biggs, Wedge, and Jessie did good.
+Now, it's our turn!"""
+"Barret
+""Well, the reactor's just down
+this tunnel!"""
+
+"Car #1: Locked Down
+Upgrading to Level 2 Warning"
+"Biggs
+""Hurry!"""
+"Wedge
+""Theyr'e gonna lock the door, sir!"""
+"Unidentified passengers located in Car #2
+Preparing for Lock Down"
+"Jessie
+""Just run!"""
+"Changing to Plan 2!"
+
+"""Hey...
+You guys are rowdy..."""
+"Well,  just calm down."
+
+"""Does this mean
+that we're in a major bind?"""
+"""Hyu---n!!
+Hyu---n!!"""
+
+"""Gosh!!
+You're adults,
+but you're making such noise."""
+"Please behave while you're in the train."
+
+"Huh?"
+"The hell?!"
+"""Do you want this?""
+          Yeah...
+          My mistake"
+"""Wow!
+I won't even charge you..."""
+"""Wha-t?
+Don't get used to it though."""
+"""Wha-t?
+Let me know when you need me."""
+"""Wha-t?
+You sure are greedy."""
+
+"Car #2: Locked Down
+Car being sent to the Station"
+
+"Barret
+""What!?
+That's it!?"""
+"Tifa
+""That didn't do anything!"""
+"Barret
+""We'll jump from here!!
+Follow me, you 'spensive leech!!"""
+"Tifa
+""Phew-----!
+Be strong!"""
+"Barret
+""Oh man......
+We were forced to get this far out."""
+"Barret
+""We can't just go back now.
+We've gotta go on."""
+"Barret
+""Biggs, Wedge, and Jessie did good.
+Now, it's our turn!"""
+"Barret
+""Well, the reactor's just down
+this tunnel!"""
+
+"Car #2: Locked down
+Upgrading to Warning Level 3"
+"Barret
+""Awright!
+We clear!?"""
+"Jessie
+""Not yet. They're starting another check.
+If we're caught, we're done for!"""
+"""But, don't worry.
+If we move up the train,
+car by car, we should get past it!"""
+"Unidentified Passengers:
+Moving to front of Train
+Currently tracking location"
+
+"Hee hee!!"
+
+"...nowhere to run..."
+"By any chance..."
+"""Busted?""
+          Huh...?
+          That's right"
+"(1) ""Ok, then.
+That's that."""
+"(2) ""I'm so--- sorry.
+I'll give it back..."""
+
+"Johnny
+""Later...Goodbye...Adios, Midgar!!"""
+"Johnny
+""sob..."""
+
+"Car #3: Locked Down
+Illegal ID will be taken to the station"
+"Barret
+""The hell!?
+So this is as far as we go...?"""
+"Tifa
+""We were almost there."""
+"Barret
+""We're gonna jump off here!!
+Follow me!!"""
+"Tifa
+""Don't worry!
+Don't worry!"""
+"Barret
+""That was close.
+I thought we were gonna get caught..."""
+"Barret
+""They probably don't realize
+that we've sneaked in yet.
+We should get to the reactor in no time."""
+"Barret
+""Biggs, Wedge, and Jessie did good.
+Now, it's our turn!"""
+"Barret
+""Well, the reactor's just down
+this tunnel!"""
+
+"Car #3: Locked Down
+Upgrading to Warning Level 4"
+
+"Brrrrrr......"
+"""It's terrible.
+Who'd expect underwear bandits
+in this day and age?"""
+"They wiped me out!"
+
+"Any idea what happened?"
+"""All I know is,
+when I woke up the 3 of us
+were butt-naked!"""
+"But I guess you couldn't relate..."
+
+"""That scary broad made me
+take the bomb."""
+"Of course I couldn't very well refuse her!"
+
+"(If stuck on Car #4, dialogue proceeds exactly like
+when stuck on Car #3)"
+
+"Car #4: Locked Down
+Upgrading to maximum security alert!!"
+"Barret
+""All right!!
+We made it!"""
+"Barret
+""Yo!!
+This way!!"""
+"Barret
+""Let's go!!
+We're gonna dive outta here!!"""
+
+"Wedge
+""Guess who?
+It's me, Wedge!"""
+"Looks like things were a success."
+"Wedge
+""I look just like my little brother
+in these clothes..."""
+"I wonder how everyone's doin' now...?"
+
+"Tifa
+""...Scary...huh."""
+"Cloud
+""Too late to be saying that now.
+Why'd you come along anyway?"""
+"Tifa
+""Because..."""
+"Barret
+""Hey you two!
+There ain't no time for that!"""
+
+"Jessie
+""It's me, Jessie.
+How do I look, Cloud?"""
+"""Do I look good in a Shinra uniform?""
+          Yeah...
+          Not now"
+"(1) Cloud
+""...you look great, just like a man."""
+"Jessie
+""Yay!! I'm so happy
+...I think?"""
+"(2) Cloud
+""Just concentrate on our plan."""
+"Jessie
+""You're right, sorry."""
+
+"Barret
+""Yo!!
+Ain't no time to waste!!"""
+"...do something!"
+
+"Tifa
+""Yeah!!
+I've made up my mind!"""
+"""Watch closely.
+I'm gonna jump!!"""
+"Cloud
+""You don't care if I go first?"""
+"Barret
+""A leader always stays till the end."""
+"Don't worry 'bout me, just go!"
+"Barret
+""Yo!
+Don't go gettin' your spikey-ass hurt!"""
+"It's only the beginnin' of the mission!"
+"Barret
+""Later!
+You take care of the rest!"""
+"Barret
+""Good, so far everything's going as planned."""
+"Barret
+""Better not let your guard down till
+we get to the Sector 5 reactor."""
+"Barret
+""Biggs, Wedge and Jessie
+got everything ready for us.
+So MOVE it."""
+"Barret
+""Well, the reactor's just down
+this tunnel!"""
+
+"Cloud
+""Those light beams are
+the Shinra's security sensors.
+We can't go any further."""
+"Cloud
+""After coming this far,
+only an amateur'd
+get caught by the security sensor."""
+
+"Barret
+""That's one damn tiny hole.
+You tellin' me to squeeze into
+that to get under the Plate? No way!"""
+"""Yo, Cloud, what're we gonna do?""
+          Look inside closely
+          Go down
+          Don't go down"
+"(1) Tifa
+""...There seems to be nothing that'll
+get us stuck in this duct."""
+"Cloud
+""Yeah. If we go down this duct, we
+won't be able to come back up here."""
+"Barret
+""Don't be wastin' time.
+Never know when the Shinra'll find us."""
+"""Cloud, you jes' gotta go.""
+          Go down
+          Don't go down"
+"(2) Barret
+""Whaddya mean we're not goin' in?
+There ain't no other way of gettin'
+to the Sector 5 reactor
+'cept through here."""
+"(1) Barret
+""But, damn man,
+that thing gives me the chills."""
+
+"Wedge
+""Cloud, this way.
+The reactor's up this ladder."""
+
+"Jessie
+""I'm sorry."""
+"Jessie
+""The ID scan problem on the train
+was all my fault."""
+"""I made your ID card special......
+So that's why it happened..."""
+"""I put my heart into making it.
+But I failed."""
+"Jessie
+""Next time,
+I'll give you something more decent."""
+"""I'll be back at the hideout
+in my research room workin' on it."""
+
+"Biggs
+""We're gonna pull out now.
+We'll meet up at the hideout."""
+"""Cloud, we're countin' on you
+to blow the reactor!"""
+
+"Tifa
+""Papa..."""
+"Tifa
+""Sephiroth!?"""
+"Tifa
+""Sephiroth did this to you, didn't he!?"""
+"Tifa
+""Sephiroth...SOLDIER...
+Mako Reactors...Shinra...Everything!"""
+"Tifa
+""I hate them all!"""
+"Barret
+""Damn man, get a hold of yourself!"""
+"Tifa
+""You all right?"""
+"Cloud
+""......Tifa."""
+"Tifa
+""Mmm?"""
+"Cloud
+""No... forget......
+Come on, let's hurry!"""
+
+"Cloud
+""I know.
+You're my watch, right?"""
+"Barret
+""Damn straight."""
+"Barret
+""Tifa's old friend...
+That ain't good enough."""
+
+"Tifa
+""Jessie said we all have to push
+the button at once."""
+"Tifa
+""No good. Let's try it again."""
+
+"Barret
+""This way!"""
+"Barret
+""Shinra soldiers!?"""
+"Barret
+""SHIT!
+What the hell's goin' on?"""
+"Cloud
+""...a trap..."""
+"Barret
+""Presi...President Shinra?"""
+"Tifa
+""Why is the President here?"""
+"President Shinra
+""Hmm...
+So you all must be that...
+...what as it?"""
+"Barret
+""AVALANCHE!
+And don't ya forget it!
+And you're President Shinra, huh?"""
+"Cloud
+""Long time no see, President."""
+"President Shinra
+""...Long time no see?
+Oh...you."""
+"""You're the one who quit SOLDIER
+and joined AVALANCHE.
+I knew you'd been exposed to Mako,
+from the look in your eyes..."""
+"""Tell me, traitor...
+what was your name?"""
+"Cloud
+""Cloud."""
+"President Shinra
+""Forgive me for asking,
+but I can't be expected to
+remember each person's name."""
+"""Unless you become
+another Sephiroth."""
+"President Shinra
+""Yes, Sephiroth...
+He was brilliant.
+Perhaps too brilliant..."""
+"Cloud
+""Sephiroth....... ?"""
+"Barret
+""Don't give a damn 'bout none of that!
+This place's goin' up with a big BANG soon!
+Serves y'all right!"""
+"President Shinra
+""And such a waste of good fireworks,
+just to get rid of vermin like you..."""
+"Barret
+""VERMIN!?
+That's all you can say...VERMIN!"""
+"""Y'all Shinra're the VERMIN,
+killing the planet!
+And that makes you King VERMIN!
+So shu'up jackass!"""
+"President Shinra
+""...You are beginning to bore me."""
+"""I'm a very busy man,
+so if you'll excuse me...
+I have a dinner I must attend."""
+"Barret
+""Dinner!? Don't gimme that!
+I ain't even started wit' you yet!"""
+"President Shinra
+""But, I've made arrangements for
+a playmate for you all."""
+"Tifa
+""!? What's that noise?"""
+"Barret
+""The hell is this!?"""
+"President Shinra
+""Meet 'Airbuster', a techno-soldier.
+Our Weapon Development Department
+created him."""
+"""I'm sure the data he'll extract from
+your dead bodies will be of great
+use to us in future experiments."""
+"Cloud
+""...Techno-soldier?"""
+"President Shinra
+""Now then,
+if you'll excuse me."""
+"Cloud
+""Wait, President!"""
+"Barret
+""Yo, Cloud!
+We've gotta do somethin'
+'bout him!"""
+"Tifa
+""Help, Cloud!"""
+"Tifa
+""THIS is from SOLDIER?"""
+"Cloud
+""No way! It's just a machine."""
+"Barret
+""I don't care what it is!!
+I'm gonna bust him up!"""
+
+"Barret
+""It's gonna blow!
+Let's go, Tifa!"""
+"Tifa
+""Barret!
+Can't you do something?"""
+"Barret
+""Not a damn thing."""
+"Tifa
+""Cloud!
+Please don't die! You can't die!
+There's still so much I want to tell you!"""
+"Cloud
+""I know, Tifa......"""
+"Barret
+""Hey, you gonna be awright?""
+          ( Be strong )
+          ( I don't know if I can hold on... )"
+"(1) Cloud
+""............"""
+"""You worry about yourselves!
+I'm all right,
+but take care of Tifa!"""
+"Barret
+""...Alright.
+Sorry 'bout all this."""
+"Cloud
+""Stop talkin' like this is the end!"""
+"(2) Cloud
+""Shit!
+Can't hold on much longer.
+Barret......Hurry!"""
+"Barret
+""Don't go cryin' like a woman.
+There ain't nothin' I can do for ya.
+Ya gotta do it yourself."""
+"Cloud
+""Barret..."""
+(end dialogue branch)
+"Barret
+""Alright, then, later."""
+
+......You all right?
+......Can you hear me?
+"Cloud
+""......Yeah......"""
+"Back then......
+You could get by with
+just skinned knees......"
+"Cloud
+""......What do you mean by 'back then'?"""
+"What about now?
+Can you get up?"
+"Cloud
+""......What do you mean by 'that time'?
+......What about now?"""
+"......Don't worry about me.
+You just worry about yourself now."
+
+"Cloud
+""......I'll give it a try."""
+"Oh! It moved!"
+......How about that?
+"Take it slow now.
+Little by little......"
+"Hello, hello?"
+"Cloud
+""......I know."""
+"Cloud
+""Hey...who are you?"""
+"Hello, hello!"
+"You okay?"
+"""This is a church in
+the Sector 5 slums."""
+"""It suddenly fell on top of me.
+It really gave me a scare."""
+"Cloud
+""......I came crashing down?"""
+"""The roof and the flower bed
+must have broken your fall.
+You're lucky."""
+"Cloud
+""Flower bed......is this yours?"""
+"Cloud
+""Sorry about that."""
+"""That's all right.
+The flowers here are quite resilient
+because this is a sacred place."""
+"""They say you can't grow
+grass and flowers in Midgar."""
+"""But for some reason, the flowers
+have no trouble blooming here."""
+"I love it here."
+
+"I'll give you a little more time."
+
+"......So, we meet again."
+"""......Don't you remember me?""
+          Yeah, I remember you......
+          Never saw you before"
+"(2) ""......I guess you don't remember.
+You were walking in a daze."""
+(if Cloud bought flower)
+"""But I'll forgive you,
+because you bought flowers from me."""
+(if Cloud didn't buy flower)
+
+"(1) Cloud
+""Yeah, I remember...""
+          You were selling flowers
+          You're the slum drunk"
+(1) "Oh! I'm so happy!"
+(if Cloud bought flower)
+"Thanks for buying my flowers."
+(if Cloud didn't buy flower)
+
+
+(2) "Excuse me, but that's really rude!"
+(if Cloud bought flower)
+"""But I'll forgive you,
+because you bought flowers from me."""
+(if Cloud didn't buy flower)
+
+
+(end dialogue branches)
+"Say, do you have any materia?"
+"Yes, some."
+"Cloud
+""Nowadays you can find materia anywhere."""
+"""But mine is special.
+It's good for absolutely nothing."""
+"Cloud
+""......good for nothing?
+You probably just don't know how to use it."""
+"""No, I do......
+it just doesn't do anything."""
+"""I feel safe just having it.
+It was my mother's......"""
+"""Say, I feel like talking.
+Do you feel up to it?"""
+"""After all,
+here we are meeting again, right?""
+          I don't mind
+          Got nothing to talk about"
+"(1) ""Wait here.
+I've got to check my flowers.
+It'll just be a minute."""
+(2) "......oh, I see."
+"""Ahhh. I wonder whose fault that is.
+It takes a lot to grow them, you know.
+Poor flowers."""
+(end dialogue branch)
+"Just a little longer."
+"Oh!"
+"Now that you mention it......"
+"We don't know each other's names, do we?"
+"My name is......"
+"""I'm Aeris, the flower girl.
+Nice to meet you."""
+"Cloud
+""The name's Cloud."""
+"""Me......?
+I do a little bit of everything."""
+"Aeris
+""Oh...... a jack of all trades."""
+"Cloud
+""Yeah, I do whatever's needed."""
+"Cloud
+""What's so funny?
+What are you laughing at?"""
+"Aeris
+""Sorry......I just"""
+"Aeris
+""Sorry, bad timing on my part."""
+"Aeris
+""Cloud!
+Don't let it get to you!"""
+
+"Don't worry about me."
+
+"Aeris
+""Say, Cloud.
+Have you ever been a bodyguard?"""
+"Aeris
+""You DO do everything, right?"""
+"Cloud
+""......Yeah, that's right."""
+"Aeris
+""Then, get me out of here.
+Take me home."""
+"Cloud
+""OK, I'll do it...
+but it'll cost you."""
+"Aeris
+""Well then, let's see......"""
+"Aeris
+""How about
+if I go out with you once?"""
+"Cloud
+""I don't know who you are, but......"""
+"Cloud
+""You don't know me......?"""
+......I know you.
+"Cloud
+""Oh yeah......I know you."""
+"Cloud
+""that uniform......"""
+"""...... Hey sis,
+this one's a little weird."""
+"Cloud
+""Shut up! You Shinra spy!"""
+"""Reno!
+Want him taken out?"""
+"Reno
+""I haven't decided yet."""
+"Aeris
+""Don't fight here!
+You'll ruin the flowers!"""
+"Aeris
+""The exit is back there."""
+"Reno
+""They were......Mako eyes."""
+"Reno
+""Yeah, all right.
+Back to work, back to work."""
+"Reno
+""Oh!"""
+"Reno
+""And don't step on the flowers......"""
+"Hey Reno, you just stepped on them!"
+"They're all ruined!"
+"You're gonna catch holy hell!"
+"Reno
+""There they are, over there!"""
+"Aeris
+""Cloud...that one!"""
+"Cloud
+""I know.
+Looks like they aren't going to let us go."""
+"Aeris
+""What should we do?"""
+"Cloud
+""Well we can't let them catch us, can we?
+Then, there's only one thing left."""
+"Cloud
+""Aeris!
+This way!"""
+"Cloud
+""All right.
+I'll hold them off."""
+"Aeris
+""Right.
+Make sure they don't get through!"""
+"Reno
+""The Ancient is getting away!
+Attack! Attack! Attack!"""
+"Aeris
+""Eaygh!!"""
+"Cloud
+""Aeris!"""
+"Reno
+""Think we killed 'em?
+They shouldn't have put up a fight, I say!"""
+"Aeris
+""Cloud, help!"""
+"Cloud
+""Damn!"""
+"Cloud
+""What's that......?"""
+"Cloud
+""Aeris!""
+          Hold on a minute!
+          Fight 'em!
+          RUN!"
+"Aeria
+""A, all right."""
+
+"""The Ancient!
+We got her!"""
+"Aeris
+""Whew, that surprised me."""
+
+"Here's a barrel.
+If I can just push it over......"
+"Push the barrel?
+          Yes
+          No"
+"Guuagh!"
+"Urkkk!"
+"Nwahh!"
+"Aeris
+""Thanks, Cloud."""
+"Aeris
+""Oh, Cloud
+what are you doing!?"""
+
+
+"Cloud
+""Aeris, this way."""
+"Aeris
+""Ha, ha......
+They're looking for
+me again."""
+"Cloud
+""You mean it's not the
+first time they've
+been after you?"""
+"Aeris
+""...no."""
+"Cloud
+""They're the Turks."""
+"Aeris
+""Hmmm......"""
+"Cloud
+""The Turks are
+an organization in Shinra.
+They scout for possible
+candidates for SOLDIER."""
+"Aeris
+""This violently? I thought
+they were kidnapping
+someone."""
+"Cloud
+""They're also involved in
+a lot of dirty stuff
+on the side."""
+"""Spying,
+murder...you know."""
+"Aeris
+""They look like it."""
+"Cloud
+""But, why're they after you?
+There must be a reason,
+right?"""
+"Aeris
+""No, not really. I think they
+believe I have what it
+takes to be in SOLDIER!"""
+"Cloud
+""Maybe you do.
+You want to join?"""
+"Aeris
+""I don't know...
+But I don't want to
+get caught
+by THOSE people!"""
+"Cloud
+""Then, let's go!"""
+"Aeris
+""Wait...
+Wait, I said!"""
+"Aeris
+""Puff...
+wheeze..."""
+"""Slow......down...
+Don't leave me......"""
+"Cloud
+""Funny..."""
+"""I thought you were cut
+out to be in SOLDIER?"""
+"Aeris
+""Oh! You're terrible!"""
+"Aeris
+""Hey......Cloud.
+Were you...ever in SOLDIER?"""
+"Cloud
+""......"""
+"Cloud
+""...I used to be.
+How did you guess?"""
+"Aeris
+""...Your eyes.
+They have a strange glow..."""
+"Cloud
+""That's the sign of those who
+have been infused with Mako..."""
+"A mark of SOLDIER."
+"""But, how did you know
+about that?"""
+"Aeris
+""......Oh, nothing."""
+"Cloud
+""Nothing...?"""
+"Aeris
+""Right, nothing!"""
+"Aeris
+""Come on, let's go!
+Bodyguard!"""
+"Aeris
+""Whew! Finally made it off!
+Now what..."""
+"Aeris
+""My house is over here.
+Hurry before he comes."""
+
+"""Um, we're, um
+taking care of the um,
+flowers for the um, lady here."""
+"""......is that ok?""
+          I don't mind
+          No it's not!"
+"(1) Cloud
+""Take good care of them."""
+"Yeah!"
+"Sure!"
+"(2) Cloud
+""That's too much to ask of kids."""
+"""Too much to ask? What's that?
+I don't get it."""
+
+"I'm gonna water them later......"
+
+"They're purrty!"
+
+"""That guy in the pipe's a weird one.
+No matter what you ask him,
+he only answers 'uuh' or 'aahh'."""
+
+"Aeris
+""This guy are sick."""
+"""He passed out nearby and
+someone must have helped him here."""
+"ooh......aaah.........aghhhh......"
+"Aeris
+""This is the one......
+Won't you help him?"""
+"ooh......aaah.........aghhhh......"
+"Cloud
+""Listen, I'm no doctor."""
+"Aeris
+""No...I guess not..."""
+"Aeris
+""Hey...that man has a tattoo.
+I think it was the number 2."""
+
+"""You ever hear of
+Wall Market?""
+          Yeah
+          Nope"
+"(1) ""Oh yeah? Then maybe I should
+have you pick something up for
+me next time you're there..."""
+"(2) ""It's a market in the slums of Sector 6.
+They've got everything you
+could ever want there."""
+"""If you can get there,
+that is. The road's something else."""
+
+"""What am I doing? I'm walking around
+looking at the ground."""
+"""You find a lot of things people
+dropped when you look down.
+You never find them when
+you're looking up. Right?"""
+
+"""Outta the way! Move!
+You want something...
+move into the store!"""
+
+"""Huh? You want weapons?
+That's too damn bad......"""
+"""I ain't got no weapons to sell ya!
+And the reason why is..."""
+"...the weapon store's over that way."
+
+"""Toot toot!
+Next stop...Midgar
+Midgar."""
+"""Any passengers getting off on Midgar
+should please ring."""
+"""You know, Midgar's supposed to be
+sparkly 'n'
+springy 'n'
+sleeky."""
+"""Oh yeah.
+Someday, I'm goin' there."""
+
+"""Take care of yourself. It's the
+law of the slums. But to do that,
+first you need weapons, right?"""
+
+"""I don't care if it's scrap metal
+or materia. We can get anything
+here in the slums."""
+"""Got a lot of good materia here.
+Why don't you look it over?"""
+
+"Hey!"
+"""Don't come barging into my house and
+be opening up my freezer! Didn't
+your mother ever teach you that?"""
+
+"""...stare...
+......hmph...we only trade items
+for gil here."""
+
+"""Hmph......!
+Everything President Shinra
+says is a lie."""
+"""But then again, you can't trust
+that AVALANCHE, or whatever you call them."""
+"""You can bat it around all you like.
+But in the end it comes down to wanting to
+be like those who live up above."""
+"""So who do you believe in?
+Oneself! Me!
+I never lie to myself, that's for sure!"""
+"""I only believe what I say.
+That's because I never lie to myself."""
+
+"And now for the news."
+"""Due to a terrorist attack by the group
+named AVALANCHE, parts of Midgar
+that were temporarily out of power
+will be restored momentarily."""
+"""Following President Shinra's lead,
+Mayor Domino also spoke out public
+against AVALANCHE."""
+
+"glug...glug..."
+"""Now...no one...
+will find it...num..."""
+"""The top one...
+and the bottom one..."""
+
+"Turtles Paradise News
+No. 1"
+"For delicious wine
+with a nice ring to it......."
+Stop on by the "Turtle's Paradise"!!
+
+"Cloud
+""............."""
+""".......huh?
+          Open the top drawer
+          Open the bottom drawer
+          Open the hidden drawer between the drawer"
+"(1/2) Cloud
+""Empty......."""
+"(3) Cloud
+"".......?"""
+"""5 gil.""
+          Take it
+          Leave it"
+
+"Aeris
+""I'm home, mom."""
+"Aeris
+""This is Cloud.
+My bodyguard."""
+"Elmyra
+""Bodyguard......?
+You mean you were followed again!?"""
+"Elmyra
+""Are you all right!?
+You're not hurt, are you!?"""
+"Aeris
+""I'm all right.
+I had Cloud with me."""
+"Elmyra
+""Thank you, Cloud."""
+"Aeris
+""So what are you going to do now?"""
+"Cloud
+""...Is Sector 7 far from here?
+I want to go to Tifa's bar."""
+"Aeris
+""Is Tifa......a girl?"""
+"Cloud
+""Yeah."""
+"Aeris
+""A girl...friend?"""
+"Cloud
+""Girlfriend?""
+          No way!
+          Yeah, that's right"
+"(1) Aeris
+""Hee hee hee......"""
+"Aeris
+""You don't have to get THAT upset..."""
+"(2) Aeris
+""Oh, how nice."""
+"(end) Aeris
+""Well, that's...nice."""
+"Aeris
+""Let's see, Sector 7?
+I'll show you the way."""
+"Cloud
+""You gotta be kidding.
+Why do you want to put
+yourself in danger again?"""
+"Aeris
+""I'm used to it."""
+"Cloud
+""Used to it!?"""
+"Cloud
+""......Well, don't know...
+getting help from a girl..."""
+"Aeris
+""A girl!! What do you mean by that!?"""
+"Aeris
+""You expect me to just sit by and listen,
+after hearing you say
+something like that!?"""
+"Aeris
+""Mom!
+I'm taking Cloud to Sector 7.
+I'll be back in a while."""
+"Elmyra
+""But dear...I give up. You never listen
+once you've made up your mind."""
+"Elmyra
+""But if you must go, why don't you go
+tomorrow? It's getting late now."""
+"Aeris
+""Yeah, you're right, mom."""
+"Elmyra
+""Aeris,
+please go and make the bed."""
+
+"Elmyra
+""That glow in your eyes...
+you're from SOLDIER, right?"""
+"Cloud
+""Yeah.
+Rather I used to be..."""
+"Elmyra
+""......
+I don't know how to say this, but..."""
+"""Would you please leave here, tonight?
+Without telling Aeris."""
+"Elmyra
+""SOLDIER...the last thing Aeris
+needs is to get her feelings hurt again..."""
+
+"Aeris
+""You need to go through
+Sector 6 to get to Sector 7.
+Sector 6 is a little"
+"""dangerous so you'd better
+get some rest tonight."""
+"Aeris
+""Cloud..."""
+"Aeris
+""Good night."""
+"Cloud
+""Oh, man..."""
+"...seem pretty tired......"
+"Cloud
+"".........!?"""
+"""I haven't slept in a bed like this
+...in a long time."""
+"Cloud
+""...Oh, yeah."""
+"Ever since that time."
+"My, how you've grown."
+"I'll bet the girls never leave you alone."
+"Cloud
+""...Not really."""
+"...I'm worried about you."
+"There are a lot of temptations in the city..."
+"""I'd feel a lot better if you just settled down
+and had a nice girlfriend."""
+"Cloud
+""...I'm all right."""
+"You should have..."
+"""an older girlfriend, one that'll
+take care of you."""
+"I think that would be the perfect type for you."
+"Cloud
+""......I'm not interested."""
+"Cloud
+""...I must've fallen
+asleep."""
+"Cloud
+""Sector 7's past Sector 6...
+I should be all right by myself..."""
+
+"Aeris
+""Cloud!
+I thought the Turks
+came back! Get some rest!"""
+"Cloud
+""Can't get caught this time..."""
+
+"Aeris
+""You're up bright and early."""
+"Cloud
+""How could I ask you to go along
+when I knew it would be dangerous?"""
+"Aeris
+""Are you done?"""
+"Aeris
+""You have to go through the slum in
+Sector 6 to get to
+Tifa's 7th Heaven."""
+"I'll take you there. Come on!"
+
+"Aeris
+""The gate to Sector 7's in there."""
+"Cloud
+""Thanks.
+I guess this is goodbye.
+You gonna be all right
+going home?"""
+"Aeris
+""Oh no!
+'What ever will I do!?'
+...isn't that
+what you want me
+to say?""
+          See her home
+          Take her to Sector 7"
+"(1) Aeris
+""Isn't that a little out of the way?"""
+"Cloud
+""Yeah, I guess so."""
+"(2) Aeris
+""I could do that.
+But won't I be
+in your way?"""
+"Cloud
+""What do you
+mean in the way?"""
+"Aeris
+""Nothing!"""
+"(end) Aeris
+""Can we take a break?"""
+"Aeris
+""I can't believe it's still here."""
+"Aeris
+""Cloud,
+over here!"""
+"Aeris
+""What rank were you?"""
+"Cloud
+""Rank?"""
+"Aeris
+""You know, in SOLDIER."""
+"Cloud
+""Oh, I was..."""
+"Cloud
+""First Class."""
+"Aeris
+""Just the same as him."""
+"Cloud
+""The same as who?"""
+"Aeris
+""My first boyfriend."""
+"Cloud
+""You were...serious?"""
+"Aeris
+""No. But I liked
+him for a while."""
+"Cloud
+""I probably knew him.
+What was his name?"""
+"Aeris
+""It doesn't
+really matter."""
+"Cloud
+""Huh? Hey, back there......"""
+"Cloud
+""Tifa!?"""
+"Aeris
+""That girl in the cart was Tifa?
+Where was she going?
+She looked kind of odd..."""
+"Cloud
+""Wait!"""
+"Cloud
+""I'll go on alone!
+You go home!"""
+
+"Aeris
+""This place is scary in a lot of ways.
+Especially for a girl.
+So we've got to find Tifa fast."""
+
+"""Hey, you two.
+Why don't you get some rest?"""
+"""We have a beautiful room,
+how 'bout it?"""
+
+"""Hey boy! You shore got a
+good lookin' heifer there!"""
+"""Take her to the Don's place,
+and you'll make a mint."""
+
+"""I just can't make up my mind...
+Mmm."""
+"Huh? About what?"
+"""Hmmm, don't make me say it...
+It's the shop down on the right."""
+
+"""......Beeeeeep......
+blipppp......"""
+"Cloud
+""Whoa!"""
+"Cloud
+""...Broken."""
+
+"""Aren't cats great?
+This one's a little big, huh?"""
+
+"""Please come in.
+Here's a free 'Pharmacy Coupon'
+if you enter now."""
+
+"""Welcome!
+Sit wherever you like!"""
+"""I'm gonna get another
+Pharmacy Coupon today."""
+"umf...scarf...glub..."
+"""Have a seat over here.""
+          Sit down
+          Don't sit down"
+(1) "Yes, what will you have?"
+"Cloud
+""Hmm...""
+          Korean B.B.Q. Plate
+          Sushi Plate
+          Today's Special"
+(2) "One Sushi Plate."
+"Comin' up!"
+"""In this store, you pay first.
+It'll be 70 Gil."""
+"""Thank you.
+Just a second."""
+"""There you go.
+Enjoy."""
+"Cloud
+          ............
+          It was all right
+          I've had better dog food"
+"(2) ""Thank you.
+Here's an item coupon
+for the Pharmacy."""
+"""You can exchange it
+for one item there."""
+"""We're out of coupons,
+so we stopped giving them away.
+Watch for our NEXT promotion!"""
+"I always get the Special."
+"""It's thanks to the Don
+that we can eat like this."""
+"""Umf...grunt...smack...
+Don't sneak up on me like that!"""
+
+"Whoa!"
+"""Why don't you say something,
+if you're standing there?"""
+"""Oh, you have a coupon.
+Then please select
+any one medicine you like."""
+"Disinfectant
+Deodorant
+Digestive"
+"Here you are."
+
+"""It's a little early to start eating.
+Come back in a bit."""
+
+"""Oh... what should I do...
+Should I just buy it......?"""
+
+"""Don't push!
+Hooligan!"""
+
+"""Welcome.
+Please take your time."""
+
+"...We're closed now."
+
+"""All this trash.
+Can't we do anything with it?"""
+"""All this, belongs to the owner
+of the Weapons Shop.
+He keeps picking things up
+and saving them here."""
+"""Oh, you mean the owner who even has
+a tank in his shop."""
+"""But no matter how you look at it,
+it's just trash..."""
+
+"Join the club."
+"Try it with us."
+
+"""All right... 1, 2, 3.
+Squats are all in the rhythm."""
+"""I'm doing my best,
+bro'!"""
+"""How's...
+this!?"""
+
+"""Oh dear.
+I've gained weight again."""
+
+"...And then..."
+"Hmm, hmmm, oh really?"
+
+"""Yes? If you want to order,
+do it at the counter."""
+
+"""Hey, could you do somethin' for me?
+Someone's been in there all day
+and they're not comin' out.
+I can't hold it anymore!"""
+
+"""HEY...someone's IN here...
+Don't look!"""
+"""Got any medicine on you?
+I'm too hyper...and......ugh......"""
+
+"""Whew,
+times are bad."""
+
+"""You want somethin'?
+I don't wanna hear any complaints
+'bout how things look."""
+
+"""This is Don Corneo's mansion.
+He's a big shot here in Wall Market."""
+"""Listen, the Don's not interested in men.
+So just get the hell outta here."""
+
+"Johnny
+""Man...
+Should I go.......or not?"""
+"""...I get so mental at times like this.
+I'm hopeless!!"""
+"Johnny
+""Hey!! Aren't you...?"""
+"""What!! You mean you're...too?""
+          Yeah, me too.
+          Don't bring me down to your level"
+"(1) ""You're Tifa's childhood friend,
+and you brought a new girlfriend
+to a place like this!?"""
+"What kind of guy are you!!"
+"(2) ""What...Me too.
+I decided this after a lot of deep thought.
+My last memories of Midgar...you know."""
+"""But...
+That guy over there kinda scares me."""
+
+"""Urrrrgh...no way......
+I can't go on."""
+"Things aren't working out."
+"""Between our differences and my pay,
+it just isn't cutting it."""
+
+"""What the hell!! You *%^&!!
+This ain't no #$*&^% show!!
+I'm busy right now!!"""
+"""I'm feelin' like there's
+gonna be a fight!"""
+
+"""Welcome!!
+Even unpopular dweebs, like you
+may meet their destiny here!!"""
+"""You looking for a girlfriend too?""
+          You know a girl named Tifa?
+          This place doesn't interest me."
+"(2) ""Hmm...Seems to like it just fine.
+Good for you."""
+"(1) ""Hey, you're pretty fast.
+Tifa's our newest girl."""
+"""But, unfortunately,
+she's having an interview right now."""
+"""Here at the Honey Bee Inn,
+it's customary for all the new girls to
+be taken to Don Corneo's mansion."""
+"""Don Corneo's a famous dilettante.
+Now he wants to settle down and
+is in the market for a bride."""
+
+"""The Honey Bee Inn is a private club.
+Only members can go in. Shoo, shoo."""
+
+"""Hey, and you got another
+cute one with you!"""
+
+"Aeris
+""Hey, this look's like the Don's mansion.
+I'll go take a look."""
+"I'll tell Tifa about you."
+"Cloud
+""No!! You can't!!"""
+"Aeris
+""Why?"""
+"Cloud
+""You DO know...what kind of...place
+this is, don't you?"""
+"Aeris
+""Then what am I supposed to do?
+You want to go in with me?"""
+"Cloud
+""Well being a man, that'll be pretty hard.
+Besides if I bust in there,
+it'll cause too much commotion."""
+"Cloud
+""But, I just can't let you
+go in alone... Oh, man......"""
+"Cloud
+""First...we need to find out
+if Tifa's alright..."""
+"Cloud
+""What's so funny,
+Aeris?"""
+"Aeris
+""Cloud, why don't you
+dress up like a girl?
+It's the only way."""
+"Cloud
+""WHAT!?"""
+"Aeris
+""Just wait. I've got a cute
+friend I want to bring."""
+"Cloud
+""Aeris!
+I can't......"""
+"Aeris
+""You ARE worried about
+Tifa, aren't you?
+Then come on, hurry!"""
+
+"What......urk......."
+"Give her medicine
+Don't give her it"
+"""Huh?
+You'll really give me some?
+Thanks."""
+"""Phew, I feel better now.
+This is for your kindness."""
+
+"Whoops!"
+
+"Aeris
+""Excuse me!
+I'd like to get a dress."""
+"""Umm, it might take a little
+time. Will that be all right?"""
+"Aeris
+""What's the problem?"""
+"""Well, my father, the owner,
+has been in a slump lately.
+You see, he makes all the dresses."""
+"Aeris
+""And, where is your father?"""
+"""He's probably plastered
+at the bar."""
+"Aeris
+""So...
+You're saying we can't get a dress
+unless we do something
+about your father?"""
+"""Yes, I'm sorry.
+He's caused so much trouble."""
+"!"
+"You'd help me bring him back?"
+"Aeris
+""Well, if we don't do something,
+we don't get a dress, right?"""
+"""Really!?
+Please help my crazy old dad.
+I just don't know
+what to do anymore..."""
+"Aeris
+""All right, we'll do something.
+Let's go, Cloud!"""
+
+"Aeris
+""Excuse us, are you the father of
+the girl at the Clothing Store?"""
+"""I own the Clothes Shop...
+but I ain't your father."""
+"Aeris
+""I didn't say that......"""
+"Cloud
+""Make me some clothes."""
+"""I don't make men's clothes.
+And I don't feel like makin'
+anything right now."""
+"Aeris
+""Cloud,
+you wait over there for a second.
+I'll try and talk to him."""
+"""Why don't you go over there
+and have something to drink."""
+"Aeris
+""You know, Mister."""
+"""He always said that just once,
+he'd like to dress up like a girl."""
+"""So, that's why I wanted
+a cute dress for him..."""
+"""What!?
+A tough lookin guy like that?"""
+"Aeris
+""So, how 'bout it?
+Will you make him one?"""
+"""...might be interesting.
+I was gettin' a little bored
+just makin' regular clothes."""
+"Aeris
+""Then you'll do it for us?"""
+"""Yeah, all right.
+What kind of dress you want?"""
+"Aeris
+""Something...""
+          That feels clean
+          That feels soft"
+"Aeris
+""And something...""
+          shiny
+          that shimmers"
+"""Hmm, got it.
+Y'know I got a friend
+that has the same taste as him.
+I'll go talk to him."""
+"""Hey, hold on.
+Wait till I get an image in my head.
+Gulp...ummm, that's good."""
+
+"""Looks like everything went well.
+He's been making the dress
+ever since he came back."""
+"""Oh, you're here. It's ready.
+Go try it on."""
+"Cloud
+""How......do you put this on?"""
+"Cloud
+""Whoa! What are you doing!"""
+"Aeris
+""It's still not right.
+A wig! That's what you need!"""
+"""Umm, I thought you might,
+so I talked to my friend
+about getting one."""
+"""You know the gym?
+You'll find a lot of people
+there like you.
+Go and talk to them."""
+"Cloud
+""...'like you'?
+Aeris,
+what did you tell him?"""
+"Aeris
+""Does it matter?
+Anyhow, we got a pretty dress!"""
+"""So?
+Were you able to get the wig?"""
+"""So, how was it?
+Were you able to see him?"""
+
+"""You the one......
+Who wants to be cute?"""
+"Cloud
+""Cute?"""
+"Aeris
+""Right."""
+"And about the wig..."
+"""Yeah, I heard.
+But it'll cost ya."""
+"Urrrrgh!!!"
+"""Big Bro!! The only way
+you're gonna get cuter is
+if you can beat Big Bro!!"""
+"That's right!"
+"""So, you've got to
+compete with us!"""
+"""You're right.
+Let's do squats."""
+"""All right!
+We'll beat you
+out of this gym!"""
+"Cloud
+""Are you...?"""
+"Aeris
+""THE beautiful Bro?"""
+"""What? You didn't know?
+Always running around here
+sayin' Big Bro' this,
+Big Bro' that..."""
+"""Never mind that,
+come over here."""
+"No, I'll explain the rules."
+"""From the ready position,
+push ☐ Button to squat,
+push X Button to get up, and
+push O Button to go back
+to the ready position."""
+"""So it's ☐ Button,
+X Button,
+O Button
+in that order."""
+"""Got it?""
+          Don't have it
+          Got it"
+(1) "Then I'll explain it again."
+"(2) ""Whoever has the most squats
+after 30 seconds gets the wig."""
+"I'm not going to lose."
+"Big Bro's wig is MINE!!"
+"Just be quiet..."
+"""It's not fair for you to start right away,
+So, you want some practice?""
+          A little
+          Don't need to practice"
+(1) "Then, start practicing!"
+"You had 17 squats."
+"""Now let's begin the real thing.
+Start!"""
+"""He had 13 squats
+and you had 20 squats."""
+"""You're really something.
+Okay, I'm a man of my word,
+here you are."""
+"""Big Bro
+I'm so mad
+I'm so so so---mad!"""
+"""Shut up!
+Don't cry,
+just because you lost!"""
+"""Uuuuhh,
+Bro's fists of
+steel cut to the bone!"""
+"""Big Bro
+Get a hold of yourself."""
+"Take care of it."
+
+"""Hey man.
+Got a minute?
+I need to talk...man to man."""
+"Cloud
+""......""
+          What is it
+          Not interested"
+"(2) ""Sorry about that.
+Just forget it."""
+"(1) ""Really!
+I really appreciate it."""
+"""......I'm sorry but, young lady?
+Would you turn the other way,
+for a second?"""
+"Aeris
+""Why......?"""
+"Cloud
+""......Aeris."""
+"Aeris
+""Gosh!"""
+"I'm sorry, lady."
+"""Now here's the thing.
+Do you know that vending machine
+in the Inn?"""
+"""I'm itchin' to know
+what they're selling in it.
+I just can't ask a girl to go get it."""
+"""What? Why don't I buy it myself?
+Well to tell you the truth,
+I got in a fight with the guy at the Inn
+and can't go there anymore.
+Come on, so how 'bout it?"""
+"Cloud
+""......""
+          I'll go
+          Not interested"
+"(1) ""Good, thanks.
+I'll be waitin' here
+when you're done."""
+"Aeris
+""Finished?"""
+
+"""Welcome.
+It'll be 10 gil per night.""
+          Stay
+          Don't stay"
+"(2) ""All right then......,
+please come again."""
+"(1) Cloud
+""He means this?""
+          Don't buy it
+          Buy the one for 200 Gil
+          Buy the one for 100 Gil
+          But the one for 50 Gil"
+"""Thank you very much.
+Please come again."""
+
+"Cloud
+""I got it."""
+"""Oh, really!!
+Hey!"""
+"Aeris
+""Geez."""
+"And, what was it?"
+"""A protein drink set.
+That jerk. I'm gonna do so much
+more business than him,
+his head'll spin."""
+"""Thanks, bud.
+I'm motivated now.
+Take this, it's not much......"""
+"""Come by again.
+I'll still be here
+doin' business."""
+
+"""I'm sorry, we're sold out
+and I've got nothing for you."""
+
+"""Nope, I just can't make up my mind.
+Here, you take this.
+You won't be able to get in without it."""
+
+"""Mmm!
+Please, please!"""
+
+"""Hey! Is that a ""Member's Card"" I see
+shining in your hot little hand?"""
+"Please, come in."
+"Cloud
+""...Hmm.
+That's how you'll fool them."""
+"Aeris
+"".........Hmmmmmmm.
+So that's how you fooled them."""
+"Cloud
+""Let's go!!"""
+
+"Poo, I uh, mean, Sir..."
+"Hurry..."
+"""Please choose a room.
+( Gosh, he's so weird...
+but then again, they all are. )"""
+The Group Room
+The &$#% Room
+"Cloud
+""Looks like it's unoccupied.""
+          I guess I'll take this one
+          Hold ground"
+"(2) Cloud
+""............"""
+"(1) Cloud
+""I'll take this room."""
+"""All right.
+Now all we have to do is
+enter the room."""
+"""You're not going to have
+a change of heart, are you?""
+          Don't make me repeat myself
+          I'm still trying to decide"
+"(1) ""Oh, don't be angry with me...
+( Geez...this one's probably
+the violent type... )"""
+"All right, please."
+"Cloud
+""Hmm......?
+You......?"""
+"What are you doing in a place like this?"
+"""That's what I want to ask you.
+Should you be foolin' around here?"""
+"""You think problems will just go away
+just thinkin' about them?"""
+"Oh no!"
+"Help! Someone...! Hurry!"
+"""You can't change anything by just sitting
+back and looking at it."""
+"Cloud
+""What are you saying?"""
+"It's started moving."
+"Cloud
+""What has?"""
+"Wake up!"
+"""rub, rub, rub...
+rub, rub, rub, rub..."""
+"""thump...pound...
+thump...pound..."""
+"""poik...poik...
+...squish."""
+"Cloud
+""Uh...OW...!!"""
+"Wake up!!"
+"Wake up!!"
+"""Phew,
+I'm so relieved."""
+"Mukki
+""Bubby!!
+I heard you collapsed."""
+"Mukki
+""No, no, no."""
+"""Don't get so uptight.""
+          Huh...?
+          Ugh...?"
+"(1/2) Mukki
+""Hmm...?
+They say youth is so long but so short."""
+"Let's give this next one your best shot."
+"Mukki
+""Time's up.
+Bye, bubby."""
+"""I'm so sorry...
+There's a lot of 'adult' things
+going on..."""
+"""For your inconvenience,
+Please take this, okay?"""
+"Cloud
+""What, this rag? For me!?
+I just don't get it."""
+
+"Hmm, hmm, hmm......"
+"""Ohhh, I just can't seem to lose weight.
+Hmm, hmm, hmm..."""
+"""Sir!!
+You can't come in here."""
+"( Yuk......a pervert... )"
+"""Oh my!!
+( ...You're still here?
+Oh well, good timing anyway. )"""
+"""Hey, what do you think about me?""
+          Not interested
+          Whatever..."
+"(1) ""NO WAY!
+I'M SO SHOCKED!!"""
+"""Hmm, hmm, hmm, hmm......
+Hmm, hmm, hmm, hmm...
+Hmm, hmm, hmm, hmm..."""
+"""Phew......
+...it's so tiring."""
+"Oh!!"
+"""Is something the matter?""
+          Not yet......
+          ......Not really"
+(1) "OH......!!"
+"(2) ""Hmph......!! Listen you, not that it matters,
+but you sure do know
+how to make people mad."""
+
+"Eyaaah!"
+"Don't!"
+"Eyaaah!"
+"Don't watch!!"
+
+"............"
+"Cloud
+""If I were to dress up like a woman...
+Then I've got to really prepare carefully."""
+"""Seems like I could put makeup on here.""
+          Have them put makeup on
+          Don't do it"
+"(1) Cloud
+""I have a favor to ask of you.
+Can you put makeup on me too?"""
+"...paste, paste, paste......"
+"Oh...my......"
+
+"""Uh, sir!!
+It's almost closing time..."""
+"""So, please remember
+any personal belongings."""
+
+"""Uuuuuuh! I want flowers too!
+But, I get so nervous in front
+of cute girls..."""
+"It just seems natural to get cautious..."
+
+"Aeris
+""Hey!!
+Cloud!!"""
+
+"""I bought some pretty flowers
+from Aeris."""
+"""500 gil, a little expensive.
+Well, at least I got her name."""
+
+"I asked Aeris for a date..."
+"""And she said not even if I paid her
+1,000,000 gil."""
+"""Her flowers cost 300 gil, too...
+She's a good business woman."""
+
+"Johnny
+""Aeris......
+Thanks for the flower and 1 gil."""
+"""I'll treasure this!
+I'm going to dry it and
+keep it for good luck."""
+
+"""Looks like you got it.
+So try it on for size."""
+
+"""Looks like you're all set.
+Now try it on,
+and let's see how it fits."""
+
+"Aeris
+""Aren't you going to change?""
+          Okay...I'm ready
+          Not now"
+"""Hmm, not bad.
+This may be a new business for me."""
+"""Yeah, you're right.
+Should we try it?"""
+"""Thanks for showing us something new.
+My father's got
+his motivation back now,
+So the dress is on the house."""
+"Aeris
+""Walk more nicely like...this.
+Miss Cloud."""
+"Cloud
+""...What do you mean 'nicely'?"""
+"Aeris
+""Oh you're so cute,
+Miss Cloud."""
+"Aeris
+""Aaah, I want one.
+Do you have one that'll
+look good on me too?"""
+"How's this?"
+"How about that one?"
+"""Father, what are you talking about?
+This one's much better."""
+"""No, what are you saying?
+This one."""
+"Aeris
+""...I want THIS one."""
+"Huh?"
+"Huh?"
+"Aeris
+""I'm going to go change."""
+"Aeris
+""......No peeking!"""
+"Aeris
+""So? How do I look?"""
+"Aeris
+""Oh, you're no fun!"""
+"""...Hmm.
+It's REALLY somethin'."""
+"""Hmm, good.
+It looks good on you."""
+
+"You're..."
+"Weird."
+
+"""Damn!!
+Your friend's hot, too!"""
+"Come in, come in!!"
+"Two ladies coming through!!"
+"Hey, ladies."
+"""I'll go and let the Don know
+you're here. Wait here.
+Don't go wandering around..."""
+"Aeris
+""Now's our chance.
+Let's find Tifa."""
+"Aeris
+""I wonder
+where she is..."""
+
+"Aeris
+""...Tifa?"""
+"Aeris
+""Nice to meet you.
+I'm Aeris."""
+"""Cloud's told me
+a lot about you."""
+"Tifa
+""...And you are?"""
+"""Hey you're the one with
+Cloud in the park..."""
+"Aeris
+""Right, with Cloud."""
+"Tifa
+""Oh......"""
+"Aeris
+""Don't worry.
+We just met. It's nothing."""
+"Tifa
+""What do you mean,
+'Don't worry'...about what?"""
+"Tifa
+""No, don't misunderstand."""
+"""Cloud and
+I grew up together.
+Nothing more."""
+"Aeris
+""Poor Cloud,
+having to stand here and listen to
+both of us call him nothing."""
+"Aeris
+""Right, Cloud?"""
+"Tifa
+""Cloud?"""
+"Tifa
+""????"""
+"Tifa
+""Cloud!?"""
+"Tifa
+""Why are you dressed like that!?
+And what are you doing here!?"""
+"""Forget that,
+what happened to you after
+the fall!? Are you hurt!?"""
+"Cloud
+""Hey, give me a chance to answer."""
+"Cloud
+""I'm dressed like this......
+because there was no other way
+to get in here."""
+"Cloud
+""I'm all right.
+Aeris helped me out."""
+"Tifa
+""Oh, Aeris did..."""
+"Cloud
+""Tifa, explain. What are
+you doing in a place like this?"""
+"Tifa
+""Yeah, ummm......"""
+"Aeris
+""Ahem!!
+I'll just plug my ears."""
+"Aeris
+""Please, go on with
+your private conversation."""
+"Tifa
+""...I'm glad you're OK."""
+"Cloud
+""Thanks.
+What happened?"""
+"Tifa
+""When we got back from
+the Number 5 reactor,
+there was this weird man."""
+"""So Barret
+caught him and
+squeezed some information
+out of him."""
+"Cloud
+""That's when
+the Don's name popped up."""
+"Tifa
+""Right,  Don Corneo."""
+"""Barret told me
+to leave
+the lech alone..."""
+"Tifa
+""But something's
+been bothering me."""
+"Cloud
+""I see.
+So you wanted to get the story
+straight from Corneo's mouth."""
+"Tifa
+""So I made it here,
+but now I'm in a bind."""
+"Tifa
+""Corneo is looking for a bride."""
+"""Everyday, he gets three girls,
+chooses one of them, and then...
+...and, well......"""
+"Tifa
+""Anyway, I have to be the girl
+...or I'm out for tonight."""
+"Aeris
+""Sorry...but I overheard..."""
+"Aeris
+""If you know the three girls,
+there's no problem, right?"""
+"Tifa
+""I guess so, but..."""
+"Aeris
+""We have two here,
+right?"""
+"Cloud
+""No, Aeris!
+I can't have you get involved."""
+"Aeris
+""Oh? So it's all right for
+Tifa to be in danger?"""
+"Cloud
+""No, I don't want
+Tifa in..."""
+"Tifa
+""Is it all right?"""
+"Aeris
+""I grew up in the slums...
+I'm used to danger."""
+"Aeris
+""Do you trust me?"""
+"Tifa
+""Yes. Thanks, Ms. Aeris."""
+"Aeris
+""Call me Aeris."""
+"He---y!!"
+"""It's time, ladies.
+The Don is waiting!"""
+"""I told you not to wander around...
+I tell ya, women nowadays..."""
+"Hurry up, will ya!"
+"Cloud
+""I probably don't need to ask but
+the other girl is......"""
+"Me......right?"
+"Tifa
+""You're right, there was no need..."""
+"Aeris
+""...to ask."""
+"Tifa
+""Ha ha... You know, if you look
+closely, you're not so bad..."""
+"""I wonder what Barret would say
+if he could see you now..."""
+"Aeris
+""They're going to get suspicious
+if we don't hurry."""
+
+"""The Don's waiting in his room...
+Ha ha ha..."""
+"Kotch
+""All right, ladies!"""
+"""Line up in front
+of the Don!"""
+"Don Corneo
+""Hmmm!
+Good, splendid!"""
+"Don Corneo
+""Now, let's see...
+Which girl should
+I choose?
+Hmm---hmm---!"""
+"Don Corneo
+""This one?"""
+"Don Corneo
+""Or this one?"""
+"Don Corneo
+""Woo-hoo,
+I've made up my mind!!"""
+"My choice for tonight is......"
+"Don Corneo
+""This healthy-looking girl!"""
+"Cloud
+""Wa, wait a sec!
+I mean, uh, please wait a moment!"""
+"Don Corneo
+""Woo-hoo!"""
+"""I love chickies who play
+hard-to-get! Yeowza!"""
+"Don Corneo
+""You can have the other ones!"""
+"""Yes, sir!
+Thank you sir!"""
+"Don Corneo
+""Well then, shall we go my pretty!?"""
+"Don Corneo
+""Ahh, we're finally alone..."""
+"""All right, pussycat...
+Come to daddy!!"""
+"Don Corneo
+""Woo-hoo!"""
+"""Don't be shy.
+We're all alone now..."""
+"Don Corneo
+""You're so cute, I never
+get tired of looking at you."""
+"""Do you...like me, too?""
+          Of course!
+          Ummm......"
+"(2) Don Corneo
+""You don't like me?"""
+"""There...there isn't someone else, is there?""
+          No, only you
+          Yes, his name's Barret..."
+"(2) Don Corneo
+""No way!"""
+"""Hmm? Barret?
+That sounds familiar..."""
+"Cloud
+""You know, he's one of the ones
+you were trying to find out about.
+You know, AVALANCHE...?"""
+"Don Corneo
+""Oh, yeah, yeah.
+In Sector 7 in the slum..."""
+"Don Corneo
+""...and how do YOU
+know that!?"""
+"Don Corneo
+""A man!?
+You tricked me!!"""
+"Somebody get in here NOW!!"
+"""Unfortunately,
+no one'll be comin' to help."""
+"""You're the ones from before!
+Wh...what the hell's going on?"""
+"Tifa
+""Shut up,
+we're asking the questions now..."""
+"Tifa
+""What did your assistants find out?
+Talk! If you don't tell us..."""
+"Cloud
+""...I'll chop them off."""
+"Don Corneo
+""No! Not that!
+I'll talk! I'll tell you everything!"""
+"Tifa
+""So...talk."""
+"Don Corneo
+""...I made 'em find out where
+the man with the gun-arm was.
+But that's what I was ordered to do."""
+"Tifa
+""By who?"""
+"Don Corneo
+""No--!
+If I told you that, I'd be killed!"""
+"Tifa
+""Talk! If you don't tell us..."""
+"Aeris
+""...I'll rip them off."""
+"Don Corneo
+""Waaaaaaaaaaah--!
+It was Heidegger of Shinra!"""
+"""Heidegger, the head of
+Public Safety Maintenance!"""
+"Cloud
+""The head of Public Safety Maintenance!?"""
+"Tifa
+""Did you say the Shinra!?
+What are they up to!? Talk!"""
+"If you don't tell us..."
+"Tifa
+""...I'll smash them."""
+"Don Corneo
+""...You're serious, aren't you...
+...ohboy, ohbooy, ohboy."""
+"""...I'm not fooling around
+here either, you know."""
+"Don Corneo
+""Shinra's trying to crush a
+small rebel group called AVALANCHE,
+and want to infiltrate their hideout."""
+"Don Corneo
+""And they're really going
+to crush them...literally."""
+"""By breaking the support
+holding up the plate above them."""
+"Tifa
+""Break the support!?"""
+"Don Corneo
+""You know what's going to happen?
+The plate'll go PING"""
+"""and everything's gonna go BAMMM!!
+I heard their hideout's in
+the Sector 7 Slums..."""
+"""I'm just glad it's not here
+in Sector 6."""
+"Tifa
+""They're going to wipe
+out the Sector 7 Slums!?"""
+"Tifa
+""Cloud, will you come with
+me to Sector 7?"""
+"Cloud
+""Of course,
+Tifa."""
+"Don Corneo
+""Just a second!"""
+"Cloud
+""Shut up!"""
+"Don Corneo
+""No wait, it'll only take a second."""
+"""How do you think scum like me feels when
+they babble on about the truth?"""
+"          They've pretty much given up on life
+          They're sure they'll win
+          They don't know what the hell's going on"
+"(1) Don Corneo
+""Buuzzzzz! Wrong!"""
+
+"President Shinra
+""How are the preparations going?"""
+"Heidegger
+""Ha, ha, ha!! Smoothly, very smoothly!
+I assigned the Turks to this."""
+"Reeve
+""President!!
+Are we really going to do this?
+Simply destroy a group
+with only a few members..."""
+"President Shinra
+""What's the problem, Reeve? You want out?"""
+"Reeve
+""...No."""
+"""But, as head of the Urban Development
+Department,
+I have been involved in the building
+and running of Midgar. That's why..."""
+"Heidegger
+""Reeve, you should flush those personal
+problems in the morning!"""
+"Reeve
+""The Mayor's against this anyway..."""
+"Heidegger
+""Mayor?"""
+"""He just sits in this building all day
+feeding his face!
+You still call that a Mayor?"""
+"Heidegger
+""Now if you'll excuse me sir!"""
+"President Shinra
+""You're tired.
+Why don't you take a couple of days
+off and go somewhere."""
+"President Shinra
+""We'll destroy Sector 7
+and report that AVALANCHE did it.
+Then we'll send in the rescue
+operation care of Shinra, Inc. ..."
+Heh, heh, heh...this is perfect."
+
+"Cloud
+""You alright?"""
+"Aeris
+""Yeah."""
+"Cloud
+""You alright?"""
+"Tifa
+""Man!
+This is terrible."""
+"Aeris
+""Well, the worst is over..."""
+"Aeris
+""Maybe not..."""
+
+"Tifa
+""It's too late......
+Marlene...Barret
+...the people of the Slums."""
+"Aeris
+""Don't give up, never give up hope.
+It's not easy to destroy the pillar, right?"""
+"Tifa
+"".........Yeah......you're right!
+We still have time."""
+
+"Let's try and jump down
+Let's not......"
+
+"Cloud
+""Aeris.
+I got you mixed up in all of this..."""
+"Aeris
+""Don't tell me to go home."""
+"Tifa
+""Let's see...If we can just get past
+the trains that are lit up,
+we should be able to get out of here."""
+
+"""I heard a rumor
+that the plate was going to fall,"
+crushing this station,
+I've worked at so many years."
+"But I just can't bear to leave here."
+
+
+"Tifa
+""We made it!
+The pillar's standing!"""
+"Cloud
+""Wait!
+You hear something......above us?"""
+"Aeris
+""......gun fire?"""
+"Cloud
+""Wedge!!
+You all right!?"""
+"Wedge
+"".......Cloud......
+You remembered......my name."""
+"""Barret's up top.
+...help him......"""
+"""An' Cloud...
+Sorry, I wasn't any help."""
+"Cloud
+""I'm going up!"""
+"Cloud
+""Aeris!
+You look after Wedge."""
+"Tifa
+""Aeris, do me a favor."""
+"""I have a bar called '7th Heaven' in
+this neighborhood."""
+"""There's a little girl
+named Marlene there......"""
+"Aeris
+""Don't worry.
+I'll put her somewhere safe."""
+"Tifa
+""It's dangerous here!"""
+"Everyone get away from the pillar, quickly!"
+"Everyone get out of Sector 7!"
+
+"Aeris
+""Don't worry.
+You let me handle this."""
+
+"""L, look... This is my job, so
+I have to be here
+until the absolute last minute."""
+"""Umm...
+I just LOVE men with a sense of duty.
+Let me stay here with you."""
+
+"""Uh oh......
+There goes the pillar."""
+"""I'm scared,
+but it's for your own good."""
+"""If things get too hairy, we'll escape.
+It's not something
+you'll see happen too often."""
+
+"""Uhh......Help!
+My strange and wonderful little place."""
+
+"""Doh! And this was supposed to be
+my last job!
+Do something!!"""
+"""I never thought this would ever happen to me!
+Great...
+I'm quitting tomorrow!"""
+
+"Biggs
+""Cloud...
+so you don't care...what happens...
+to the...Planet?"""
+"          Nope, not interested
+          You're wounded......"
+"(1) Biggs
+""Hmph...you haven't changed.
+Oh, forget it."""
+"(2) Biggs
+""Thanks, Cloud."""
+"""...don't worry 'bout me......
+Barret's...fighting up there.
+Go help him..."""
+
+"Jessie
+""...Cloud...
+I'm glad......I could talk
+with you...one last time."""
+"          Don't say 'last'......
+          Is that so..."
+"(1) Jessie
+""That's...all right..."""
+"""Because...of our actions...many......people died......
+this probably......is our punishment..."""
+"(2) Jessie
+""...Is...that so......?"""
+"""Ha......cool......as usual...
+ex-...SOLDIER.
+...always...I liked that...in you..."""
+
+"Barret
+""Tifa! Cloud!
+You came!"""
+"""Be careful! They're attacking
+from the helicopter."""
+"Tifa
+""Better equip ourselves
+before they attack in full force!"""
+"Press the ( MENU ) button to access the Menu.
+Press the ( OK ) button when finished."
+
+"Tifa
+""Here they come!"""
+"Reno
+""You're too late.
+Once I push this button..."""
+"Reno
+""That's all, folks! Mission accomplished."""
+"Tifa
+""We have to disarm it!
+Cloud! Barret!
+Please!"""
+"Reno
+""I can't have you do that.
+No one get in the way
+of Reno and the Turks..."""
+
+Reno "Try and break it if you can."
+Reno "It's time."
+
+"Barret
+""DAMN! It's a time bomb!"""
+"Tifa
+""Cloud!
+I don't know how to stop this.
+Try it!"""
+"Cloud
+""...It's not a normal time bomb."""
+"Tseng
+""That's right.
+You'll have a hard time disarming that one."""
+"""It'll blow the second some stupid jerk
+touches it."""
+"Tifa
+""Please, stop it!"""
+"Tseng
+""Ha ha ha......"""
+"""Only a Shinra Executive can set up or disarm
+the Emergency Plate Release System."""
+"Barret
+""Shut yer hole!"""
+"Tseng
+""I wouldn't try that......
+You just might make me
+injure our special guest."""
+"Tifa
+""Aeris!!"""
+"Tseng
+""Oh, you know each other?"""
+"Tseng
+""How nice you could see each other one last time.
+You should thank me."""
+"Cloud
+""What are you gonna do
+with Aeris!?"""
+"Tseng
+""I haven't decided."""
+"""Our orders were to find
+and catch the last remaining Ancient."""
+"Tseng
+""It's taken us a long time, but now I can finally
+report this to the President."""
+"Aeris
+""Tifa, don't worry!
+She's all right!"""
+"Tifa
+""Aeris!"""
+"Aeris
+""Hurry and get out!"""
+"Tseng
+""Ha, ha, ha...
+Well, it should be starting right about now.
+Think you can escape in time?"""
+"Tifa
+""Once that Plate starts coming down
+it'll be too late.
+We gotta hurry!"""
+"Barret
+""Yo, we can use this wire to get out!"""
+
+"Barret
+""Marlene!
+MARLENE!!"""
+"Barret
+""MAR---LE---NE!!"""
+"Barret
+""Biggs!"""
+"Barret
+""Wedge!!"""
+"Barret
+""Jessie!!"""
+"Barret
+""Goddamn it!!!"""
+"Barret
+""Dammit!"""
+"Barret
+""DAMMIT ALL TO HELL!!!!"""
+"Barret
+""What the hell's it all for!?"""
+"Barret
+""ARGGHHHH!!!"""
+"Cloud
+""Hey, Barret!"""
+"Tifa
+""Barret!"""
+"Barret
+""ARGGHHHH!!!"""
+"Cloud
+""Hey!"""
+"Tifa
+""Barret, stop...
+Please stop, Barret."""
+"Barret
+""URGHHHH!!!"""
+"Barret
+""God
+damn..."""
+"Barret
+""Marlene..."""
+"Tifa
+"".........
+Barret......?"""
+"Tifa
+""Marlene is...
+I think Marlene is safe."""
+"Barret
+""......huh?"""
+"Tifa
+""Right before they took Aeris,
+she said, ""Don't worry, she's all right.""
+She was probably talking about Marlene."""
+"Barret
+""R, really!?"""
+"Tifa
+""But..."""
+"Barret
+""Biggs......
+Wedge...
+Jessie......"""
+"Cloud
+""All three of them were in the pillar."""
+"Barret
+""Think I don't know that?"""
+"Barret
+""But...we, all of us
+fought together."""
+"Barret
+""I don't wanna think of them
+as dead!"""
+"Tifa
+""...and the other people in Sector 7."""
+"Barret
+""This is all screwed up!"""
+"""They destroyed an entire village
+just to get to us!
+They killed so many people..."""
+"Tifa
+""...are you saying it's our fault?
+Because AVALANCHE was here?
+Innocent people lost their lives because of us?"""
+"Barret
+""No, Tifa!"""
+"""That ain't it!
+Hell no!!"""
+"""It ain't us! It's the damn Shinra!
+It's never been nobody but the Shinra!"""
+"Barret
+""They're evil and destroyin'
+our planet just to..."""
+"""build their power and line their own
+damn pockets with gold!"""
+"""If we don't get rid of them,
+they're gonna kill this planet!"""
+"Barret
+""Our fight ain't never gonna be over
+until we get rid of them!!"""
+"Tifa
+"".........I don't know."""
+"Barret
+""What don't you know!?
+You don't believe me?"""
+"Tifa
+""It's not that.
+I'm not sure about...me.
+My feelings."""
+"Barret
+""An'what about you?"""
+"Cloud
+""........."""
+"Barret
+""Yo!"""
+"Barret
+""Where's he think he's goin'?"""
+"Tifa
+""Oh! Aeris!"""
+"Barret
+""Oh yeah, that girl.
+What's up with her?"""
+"Tifa
+""...I don't really know...
+But she's the one I left
+Marlene with."""
+"Barret
+""Damn! Marlene!!"""
+"Barret
+""Tifa.
+There ain't no turnin' back now."""
+
+"Cloud!"
+"Barret
+""Take me to Marlene!"""
+"Tifa
+""You're going to help Aeris?"""
+"Cloud
+""Yeah...
+But before that,
+there's something I want to know."""
+"Tifa
+""What's that?"""
+"Cloud
+""...it's about the Ancients."""
+"In my veins courses the blood of the Ancients.
+I am one of the rightful heirs to this planet!"
+"Cloud
+""Sephiroth...?"""
+"Tifa
+""Are you all right?"""
+"Barret
+""Pull it together, man!"""
+
+"""Even with all that commotion,
+you went on like nothing happened.
+You must really been through the mill
+to get that."""
+
+"...sniff...sniff..."
+"""First there was a rumbling......
+...then cracking...
+and then ker-blaMM!!..."""
+"...I was so scared...sniff..."
+
+"""You finally think you're making a
+living in the pits of Midgar,
+and then a big piece of scrap like
+that falls down here...what's next?"""
+"""Yeah, that's right!
+But, even so, where could we
+move to now...?"""
+
+"""Never thought that would
+come tumbling down.
+Maybe I better walk around
+looking up from now on."""
+
+"""...sure is loud outside.
+Wonder what's happening?"""
+
+"""You never know what's going to happen!
+It's a crazy world,"""
+"""so you'd better at least have a weapon
+you can depend on! Am I right or what?"""
+
+"""Living in a place like this,
+you could live out several lives,"
+"and it still wouldn't be enough!"
+"""Well, how about some materia? Make
+some money and then scramble out of here!"""
+
+"""...stare...
+......hmph...we only trade items
+for gil here.
+No matter what."""
+
+"""The hell's up with that!? I don't care if
+they're AVALANCHE or Avant-garde or
+whatever you call them. Anyone who brings
+the plates down on us is nuts!!"""
+
+"This just in. An accident today..."
+"""...the worst in the history of the metropolis.
+But thanks to the quick response
+by those in charge,
+there were no civilian casualties."""
+"""The cause of the accident is unclear at
+this time, however, according to some
+sources it is believed to have something to
+do with the terrorist activities
+of the group, AVALANCHE."""
+
+"""He heh!
+I bought an item with the money
+I'd been saving up for some time now."""
+"""My dream is to grow up and become
+a big time dealer on Wall Market."""
+"""Since I'm feeling so good today,
+I'll let you have this!"""
+
+"Elmyra
+""Cloud......wasn't it?"""
+"Elmyra
+""It's about Aeris, isn't it?"""
+"Cloud
+""...Sorry.
+The Shinra have her."""
+"Elmyra
+""I know.
+They took her from here."""
+"Cloud
+""They were here?"""
+"Elmyra
+""That's what Aeris wanted..."""
+"Cloud
+""Why is Shinra after Aeris?"""
+"Elmyra
+""Aeris is an Ancient.
+The sole survivor."""
+"Barret
+""...What did you say?
+But, aren't you her mother?"""
+"Elmyra
+""...Not her real mother.
+Oh...it must have been 15 years ago..."""
+"Elmyra
+""...during the war.
+My husband was sent to the front.
+Some far away place called Wutai."""
+"""One day, I went to the station because
+I got a letter saying
+he was coming home on leave."""
+My husband never came back.
+I wonder if something happened to him?
+No, I'm sure his leave was just canceled.
+I went to the station everyday.
+Then, one day......
+"You used to see this sort of thing
+a lot during the war."
+"Her last words were,
+""Please take Aeris
+somewhere safe."""
+"My husband never came back.
+I had no child. I was probably lonely.
+So I decided to take her home with me."
+"""Aeris and I became close very
+quickly. That child loved to talk.
+She used to talk to me about everything."""
+"""She told me she escaped from some kind of
+research laboratory somewhere. And that her
+mother had already returned to the planet,
+so she wasn't lonely...and many other things."""
+"Barret
+""Returned to the planet?"""
+"Elmyra
+""I didn't know what she meant.
+I asked if she meant a star in the sky,"""
+"""But she said it was this planet...
+She was a mysterious child in many ways."""
+"Aeris
+""Mom."""
+"Aeris
+""Please don't cry."""
+"Elmyra
+""Aeris just blurted that out
+all of a sudden. When I asked
+her if something happened..."""
+"Aeris
+""Someone dear to you has just died."""
+"""His spirit was coming to see you,
+but he already returned to the planet."""
+"Elmyra
+""At that time I didn't believe her."""
+"Elmyra
+""But..."""
+"Elmyra
+""Several days later...
+We received a notice
+saying my husband died..."""
+"Elmyra
+""...and that's how it was."""
+"""A lot had happened, but we were happy.
+Until one day..."""
+"Tseng
+""We want you to return Aeris
+to us. We've been searching
+for her for a long time."""
+"Aeris
+""No!
+Never!"""
+"Tseng
+""Aeris, you're a very special child.
+You are of special blood."""
+"Your real mother was an 'Ancient'."
+"Elmyra
+""Of course I heard it.
+That she was an 'Ancient'."""
+"Tseng
+""The Ancients will lead us to
+a land of supreme happiness."""
+"""Aeris will be able to bring
+happiness to all those in the slums."""
+"""That is why Shinra would like
+Aeris's cooperation......"""
+"Aeris
+""He's wrong!
+I'm not an Ancient!
+I'm not!"""
+"Tseng
+""But Aeris, surely you hear
+voices sometimes
+when you're all alone?"""
+"Aeris
+""No, I don't!"""
+"Elmyra
+""But I knew.
+I knew about her mysterious powers..."""
+"""She tried so hard to hide it,
+so I acted as though I never noticed."""
+"Cloud
+""It's amazing how she's avoided
+the Shinra for all these years..."""
+"Elmyra
+""The Shinra needed her,
+So I guess they wouldn't harm her."""
+"Tifa
+""But why now......"""
+"Elmyra
+""She brought a little girl
+here with her."""
+"""On the way here, Tseng found them.
+She probably couldn't
+get away fast enough."""
+"""She decided to go to the Shinra in
+exchange for the little girl's safety."""
+"Cloud
+""Must be Marlene."""
+"Barret
+""Marlene!!
+Aeris was caught
+because of Marlene!?"""
+"Barret
+""I'm sorry.
+Marlene's my daughter.
+I'm ...really...sorry..."""
+"Elmyra
+""You're her father!?
+How in the world could you ever leave
+a child alone like that!?"""
+"Barret
+""...please don't start with that.
+I think about it all the time.
+What would happen to Marlene, if I..."""
+"Barret
+""But you gotta understand somethin'...
+...I don't got an answer.
+I wanna be with Marlene...
+But I gotta fight."""
+"Barret
+""'Cause if I don't...the planet's gonna die."""
+"Barret
+""So I'm gonna keep fightin'!"""
+"Barret
+""But, I'm worried 'bout Marlene.
+I really just wanna be with her...always."""
+"Barret
+""See? I'm goin' in circles, now."""
+"Elmyra
+""...I think I understand what you're saying...
+She's upstairs asleep,
+Why don't you go and see her."""
+
+"Tifa
+""It's my fault...
+I was the one who got
+Aeris involved in this."""
+"Elmyra
+""Don't say that.
+Aeris doesn't think that."""
+"Tifa
+""I feel so depressed."""
+
+"Elmyra
+""...sigh..."""
+
+"Barret
+""I'm so glad......
+I'm so glad you're all right..."""
+"Marlene
+""Daddy, don't cry.
+Your whiskers
+hurt!"""
+"Barret
+""Cloud!"""
+"Barret
+""You gonna go help Aeris, right?
+She's done so much for me..."""
+"Barret
+""If it's the Shinra you're dealin'
+with, I can't just sit here!
+I'm comin', too!"""
+"Marlene
+""Guess what? Guess what?
+Aeris was asking me
+lots of questions."""
+"""Like what kind of person Cloud is.
+I bet she likes you, Cloud!""
+          I don't know
+          Let's hope so"
+"(1) Marlene
+""Stupid!"""
+"(2) Marlene
+""I won't tell Tifa."""
+
+"Tifa
+""You're going after Aeris, right?"""
+"Cloud
+""Yeah."""
+"Tifa
+""I'm coming with you."""
+"Cloud
+""We're going right into Shinra Headquarters.
+...You gotta be prepared for the worst."""
+"Tifa
+""I know."""
+"Tifa
+""Right now, I feel I have to
+push myself to the limit."""
+"Tifa
+""If I stayed here...I'll go crazy."""
+"Barret
+""Sorry, but can you take care
+of Marlene a bit longer?"""
+"Elmyra
+""Yes, I don't mind."""
+"Barret
+""This place is dangerous now.
+You better go somewhere else."""
+"Elmyra
+""...You're right.
+But promise me that you'll
+come back to her.
+Don't get yourself killed."""
+"Tifa
+""How do we get to the Shinra Building?"""
+"Barret
+""There ain't no train
+that goes up there anymore..."""
+"Tifa
+""......"""
+"Tifa
+""Well, let's just go to Wall Market.
+We might be able to find something there."""
+
+"Elmyra
+""I mean it, come back to her.
+Don't get yourself killed."""
+
+"Marlene
+""Daddy,
+Tifa,"
+"""Cloud!
+Please bring Aeris back!"""
+
+"""Hey, ya'll.
+Please stay here!"""
+
+"It came down from the sky."
+"""But the old guy who likes tanks took
+all of it away.
+I wanted some too."""
+
+"""I never believed that Sector 7
+would ever come down."""
+
+"""According to that guy with the tank,
+if you're strong enough,
+anyone can make it to the top plate."""
+"""So, build your strength by having
+a plate of our food."""
+
+"""Phew, it's all dusty
+ever since the sky came down.
+I'll have to start over."""
+
+"That was scary..."
+
+"""You're dressed normal today.
+If something else
+interesting comes up,
+let me in on it."""
+
+"""Hey!!
+It's you!!"""
+"Sorry, but I already heard about you."
+"""In addition to dressing like a woman,
+it seems you like
+to smash and grind things."""
+"""We only let cultured customers in!
+Got it? Then you'd better leave!"""
+
+"""Is this pile of trash
+getting bigger?"""
+"Yes, I think so."
+"""A lot of things came falling down
+when the Sector 7 pillar fell."""
+"""Right, right, you're right.
+The owner of the Weapons Shop
+scavenged all the stuff that came
+falling down."""
+"""Oh is that why?
+He seems pretty suspicious
+these days."""
+"""Oh, you mean he went out to
+the Plate cross section next
+to the Don's Mansion, right?"""
+"""Oh, you know!
+I wonder what he's doing?"""
+"""Yeah!
+It gives me the chills."""
+
+"""Wanna see somethin' awesome?
+Follow me!"""
+
+"So? How's it?"
+
+"More strength."
+"""I bet you could climb all the way
+up to the upper plate
+if you used that pipe."""
+"""Don't you know?
+The old man at the Weapon shop
+can tell you more about it."""
+
+"""Scary, isn't it?
+You just never know when the plate
+might come crashing down."""
+"""Yeah.
+I'd like to climb up to the
+plate if I could."""
+
+"Kotch
+""Hey! You're...not them...
+you're..."""
+"""Please, help me!""
+          Help him
+          Leave him"
+"(2) Kotch
+""I...I was just following
+the Don's orders! Help me!"""
+"(1) Kotch
+""Thanks!"""
+"""You know what? After you left, some
+Shinra guys forced themselves in
+here saying things like 'information
+leaked' and 'good for nothing'."""
+"""They took Don somewhere and that's it......
+I'm still here."""
+"Kotch
+""Oops!
+They're here again...
+I'm outta here! SEE ya"""
+
+"""You goin' up to the plate?
+You better have a Battery."""
+"Cloud
+""You're gonna sell me
+something you just found?"""
+"""Hey, you knew?
+But I repaired it,
+so it's all right."""
+"Cloud
+""Why do I need a battery to
+climb up to the plate?"""
+"""You'll find out when you get there.
+How 'bout 100 Gil for each?"""
+"Cloud
+""......""
+          All right, I'll take them
+          I think you're full of it"
+"(2) ""All right then, go see for yourself.
+You'll be back again."""
+
+"Come again."
+
+"""Everyone climbed up this wire.
+Looks scary......Brrr."""
+"Tifa
+""Can we climb it?"""
+"""Yeah.
+It leads to the Upper World."""
+"Barret
+""Awright!
+We'll climb this wire!"""
+"Cloud
+""There's no way we can do this.
+You know how far it goes up?"""
+"Barret
+""There IS a way!
+Look! What's that look like?"""
+"Cloud
+""Just a normal wire."""
+"Barret
+""Oh yeah? Well to me it looks
+like a golden shiny wire of hope."""
+"""You're right.
+This is the only way
+to save Aeris..."""
+"Cloud
+""Ok, that was a bad analogy,
+but, Barret,
+I understand how you feel."""
+"Cloud
+""Let's go!"""
+
+"""Oh man!
+This is horrible..."""
+"""Hey, scary, huh?
+Dad told me that
+it's the Shinra's doing."""
+
+"Cloud
+""...maybe if I put a battery in..."""
+"The propeller might work."
+"Cloud
+""I guess I'll just have to
+believe the shopkeeper."""
+
+"Cloud
+""Need a battery here, too."""
+
+"Cloud
+""Looks like the only way is
+to jump onto that bar."""
+"""Should make it if I
+jump before it comes too close.
+( use OK button to jump )"""
+"Cloud
+""Jumped too soon..."""
+"Cloud
+""Jumped too late..."""
+
+"Barret
+""Hey, you oughta know
+this building well."""
+"Cloud
+""...Not really,
+now that I think about it,"""
+"""This's the first time I've ever been
+to the Headquarters."""
+"Barret
+""I heard about this place before."""
+"""Every floor above the 60th is
+special and not easy to get to
+even for employees."""
+"""Must be where they
+took Aeris."""
+"""The security's pretty light now.
+Awright, let's go!!"""
+"Tifa
+""Wait a second!
+You're not thinking of just going
+right through the main entrance, are you?"""
+"Barret
+""Well what else does it look like!?
+I'm gonna kick some Shinra butt and......"""
+"Tifa
+""That's not going to work!
+We've got to find another way..."""
+"Barret
+""Ain't gonna be no other way!
+If we keep wastin' time like this,
+Aeris'll..."""
+"Tifa
+""I know that!
+But if we get caught here..."""
+"""Hey, Cloud.
+...What should we do?""
+          Let's bust on in!
+          Let's sneak in quietly"
+"(2) Tifa
+""See? Let's be careful and find a
+different route!"""
+
+"Barret
+""Yo...
+You really gonna take these
+stairs all the way up?"""
+"Tifa
+""Well we've got to
+get to Aeris
+to help her somehow."""
+"Barret
+""Talk about out of the way..."""
+"Tifa
+""I don't have time to argue with you!
+I'm going!"""
+"Barret
+""Y, yo Tifa!
+Don't go off alone!"""
+"Barret
+""Don't know...
+Why...the hell...
+We gotta...climb..."""
+"Cloud
+""...because we don't want to start
+a commotion until we've saved
+Aeris."""
+"Cloud
+""I doubt that's possible though..."""
+"Barret
+""...heh heh heh."""
+"Cloud
+""Knock it off. You're giving me the creeps."""
+"Barret
+""So even you will fight for someone else.
+I had you figured wrong I guess."""
+"Cloud
+""Who cares what you figured!"""
+"Barret
+""I'm just sayin'
+mebbe I was wrong..."""
+"Tifa
+""heh heh heh......"""
+"Cloud
+""What's that supposed
+to mean, Tifa?"""
+"Barret
+""...how much farther do these
+stairs go on?"""
+"Tifa
+""Why don't you ask them?"""
+"Barret
+""It's not one of them endless
+stairways or somethin', d'ya think?"""
+"Tifa
+""Of course not!!"""
+"Barret
+""Right...couldn't be that..."""
+"Barret
+""Are we there yet?"""
+"Tifa
+""Not yet."""
+"Barret
+""...there yet?"""
+"Tifa
+""I said not yet!"""
+"Barret
+""Yo..."""
+"Tifa
+""Look, don't even ask!
+We're way way way way far
+away from being there, ok!?"""
+"Barret
+""Damn, man!
+I've had it! I'm going back!"""
+"Tifa
+""And take just as long going down as
+you did coming up?"""
+"Barret
+""............"""
+"Tifa
+""C'mon, Barret.
+Pull it together!"""
+"Barret
+""Yeah, well all I know is I'm just
+flesh 'n' blood...
+'cept for this arm of mine."""
+"""Don't treat me like I'm some
+ex-member of SOLDIER or somethin'......"""
+"Tifa
+""What about me!? I'm human too!
+Oh, do what you want, I'm going on!"""
+"Tifa
+""......?"""
+"Tifa
+""Yaah!
+Barret!
+You go first!"""
+"Barret
+""What're ya ignorant?
+I didn't mean that..."""
+"Tifa
+""All right, all right!"""
+"Tifa
+""Cloud,
+you go on ahead too!!"""
+"Barret
+""Yo...
+What floor is this?"""
+"Tifa
+""...I gave up on counting."""
+"Barret
+""Why they gotta build these buildings
+so damn tall?"""
+"Barret
+""That Shinra...
+They're just no damn good."""
+"Tifa
+""........."""
+"Barret
+""huff...
+Man, I'm beat..."""
+"Barret
+""Marlene, Daddy wanted to
+see your face one more time..."""
+"Tifa
+""Would you stop acting like a
+retard and climb!?"""
+"Tifa
+""It's just a bit more!"""
+"Tifa
+""...maybe."""
+"Barret
+""F...finally...
+M...made it..."""
+"""N...never wanna see...
+no more stairs the rest of my life..."""
+"Tifa
+""huff...puff...
+this really takes it out of you..."""
+"""But this is it.
+We'd better get ready...!"""
+
+"Barret
+""Hey Cloud!"""
+"""You come all this way, you thinkin'
+of goin' back down to the 1st floor?""
+          Yeah
+          No......"
+"Barret
+""Yeah, that's right!
+Let's go on then!"""
+
+"Destroy the intruders!"
+
+"Cloud
+""What's this?"""
+
+"Barret
+""This is the real thing.
+Don't let your guard down."""
+"Tifa
+""I hope Aeris is all right."""
+
+"Barret
+""Lookit that, all them guards
+is runnin' around."""
+"""Cloud,
+you go on ahead and signal us
+when it's safe to come."""
+
+"Tifa
+""Stay in the shadows!"""
+"Barret
+""When those guards turn around,
+MOVE!"""
+
+"Wait for the soldiers to let down their guard,
+then push the O button to signal the others!"
+
+"Barret
+""Ok!
+We gonna rock!"""
+"Tifa
+""Remember,
+we're here to save
+Aeris."""
+"Barret
+""Hell, I know that!"""
+
+"""I don't remember seeing your face before...
+You new here?"""
+"""Say, you're cute.
+Let me teach you some...things.""
+          Things?
+          Um, I'm kinda in a hurry..."
+"(1) ""Wipe that stupid look off your face.
+I was only going to teach you
+how to get to the next floor."""
+"""The higher ups in the company
+use the floors above the 60th floor.
+But you can't get there without
+a keycard."""
+"""Get a keycard and you can use
+the elevators freely."""
+
+"""...voila!
+You hear that sound
+and the door opens."""
+"""Just remember there are
+different types of cards.
+One keycard alone won't
+let you go everywhere."""
+"For example,
+"""'Keycard 60' only takes
+you to the 60th floor.
+'Keycard 65' only takes
+you to the 65th floor."""
+"""It's a security system worthy of
+Shinra. After all, all the power
+in Midgar and the world, for that
+matter, is controlled by them."""
+"""Oh, I have to go.
+Gotta get back to work!"""
+"(2) ""Oh?
+That's too bad..."""
+
+"""What's keeping her?
+Did she forget her keycard?"""
+"""Even employees can't walk around
+above the 60th floor
+without a keycard."""
+
+"""The hell are you?
+What're you doin' around here?""
+          Where's Aeris?
+          ......"
+"(1) ""Aeris?
+How did you know that name?
+You must be...!?"""
+"""Aeris,
+you mean that kid.
+The receptionist. Yeah, I was
+startin' to worry 'bout her myself."""
+"""And so another rival
+appears on the scene, eh?"""
+"""You mean, she's not?
+It's someone else?"""
+"(2) ""Oh, I see.
+So you must be
+that watcha call it..."""
+"Shinra, Inc. Repair Division!!"
+"""You know, it looks
+like this building is
+starting to fall apart."""
+"""This door was just pushed open.
+You ought to fix this right away."""
+"""Oh yeah, and take a look
+on the other floors too.
+I'll give you this."""
+
+"""I thought I heard a ruckus
+downstairs a minute ago.
+Do you know what that was all about?"""
+"""No idea.
+But no need to worry because
+everything above the
+60th floor is safe."""
+
+"""This is the lounge floor.
+Above us are the special floors for the
+big wigs in the company."""
+"""It's tough working under someone.
+Tires you out."""
+
+"Shinra, Inc.
+Peace Preservation/
+Weapon Dev. Research Library"
+"This is the Public Order/Weapon
+Development Library."
+"Return materials where you found them.
+Do not mix materials from other libraries."
+Breakdown of SOLDIER members by class
+"Mako energy and the rise
+in life forms"
+Heidegger's Shinra peace keeping law
+Economic report: anti-Shinra activities
+Materia production and its military uses
+Plan for new land weapons
+
+"Shinra, Inc.
+Space Dev. Research Library"
+This is the Space Dev Research Library.
+"Click on the plate in front of
+each library to see which it is."
+"Diminishing Mako energy and
+Planet movements"
+Shinra rocket space travel
+"An illustrated guide to
+City Planning"
+Results of failed space mission "YA-79"
+Economic report: Space Dev Program
+
+
+"Shinra, Inc.
+Scientific Research Library"
+"This is the Scientific Research Library.
+Materials for the..."
+"Urban Dev. Library
+Peace/Weapon Dev. Library
+Space Dev. Library
+are held in their respective libraries..."
+"Final evolutionary stages
+in land dwelling life"
+"Data on experimental
+animals living near Midgar"
+3  File on Dr. Gast, Biologist
+The Ancients in History
+"Ranks and extended use
+of Mako weaponry"
+"Report on high Mako levels
+in living beings"
+
+"Shinra, Inc.
+Urban Dev. Research Library"
+Materials are non-circulating!
+"It is forbidden to remove any
+materials from this floor."
+
+"Modern history of
+Midgar space program vol. 1"
+New plans for Urban Planning
+Reactor Construction Chart
+Midgar City map: Sectors 5-8
+"Problems with Plate
+construction in Midgar"
+
+"Hart
+""How do you do?"""
+"""This is the Midgar Mayor's Office.
+Mayor Domino is in his office."""
+"""I am the Deputy Mayor.
+If you should have any questions
+feel free to ask me..."""
+
+"Domino
+""Hmm?
+Oh, and who might you be?"""
+"""You all must be those...ahem...
+Me? I'm Domino, the Mayor of Midgar."""
+"""Actually, I'm Mayor in name only.
+The city and everything in it is really
+run by Shinra, Inc."""
+"""My only real job is watching over
+Shinra's documents..."""
+"""Me! The Mayor!
+A librarian!
+Ohh......"""
+"""You want to get upstairs?
+I tell you what, if you can guess the
+password, I'll give you my keycard."""
+"""Yes, that's it.
+Guess the password
+and I'll give you my keycard!"""
+"""Get it on the first try
+and I'll even throw in
+a special item!"""
+
+"Domino
+""Got it?"""
+"Then tell me."
+"""So, what's the password?""
+          BEST
+          KING
+          ORBS
+          BOMB
+          MAKO
+          HOJO
+          Wait a second"
+"Domino
+""BOMB!!"""
+"""God, I love the sound of that!
+BOMB!! I'm so angry, I'm like
+a walking time bomb waiting to explode!"""
+"""......hmm. Well, ok.
+Here, take it."""
+"""I never thought you'd
+get it on the first try..."""
+"""Just goes to show you can't
+judge a book by its cover.
+Oh well, a promise is a promise.
+Take this, too."""
+"Domino
+""Why would I do something
+like this, you ask?"""
+"""To mess with them, of course!
+Shinra's been torturing me forever."""
+
+"""That's why I was a little rough
+on you all just now.
+Now go up there and really
+make them suffer."""
+"""This ought to make us even!
+Heh heh heh......"""
+"Domino
+""But my card will only get you
+to the 65th floor."""
+"""Can you believe how they treat me?
+...ME! Like some common employee..."""
+
+"Hart
+""If you run into President Shinra
+please don't tell him about this."""
+"""I can't be a partner to
+anymore trouble for Shinra."""
+
+"""...zzz...
+Please......let me......
+get some...rest......"""
+
+"""...huff...puff...
+If you're tired, you should
+get some rest in the next room."""
+
+"""...huff...wheeze...
+I'm starting to worry
+about my belly......"""
+
+"""Hmph, hmph...
+Since I'm head of security for this
+building, stamina's very important to me."""
+
+"""You must be a visitor.
+Please feel free to use any
+unused machines."""
+
+"""Take one to restore your energy!!
+'Shinra Gym Special Drink'"""
+"""Only 250 gil!!""
+          Try it out
+          Don't try it"
+"Cloud
+""...Nothing..."""
+"......"
+"Cloud
+""...Is it broken?'""
+          BANG on it
+          Give up"
+"""Sir, what are you doing!?
+No violence here, please!"""
+
+Locked......
+
+"Cloud
+""What is this......a Megaphone?"""
+"""Hanging on to
+this won't do any good..."""
+
+"Out of Order
+Please use a different Floor
+
+Shinra Company Repair Management Department"
+
+"Cloud
+""Midgar...born from Mako energy
+which was sucked right out of the earth.
+A model of the city..."""
+"""When construction of Sector 6
+finishes, Shinra's plan
+will be complete."""
+"""That must be why he took
+Aeris..."""
+
+"""Parts of the model are missing...""
+          Place the Midgar parts
+          Leave it alone"
+"Cloud
+""...Sounds like
+something opened up..."""
+
+"Whew, I'm so sick of carrying all these files..."
+"""But I get to meet lots of guys.
+I guess that's the benefit of being a secretary!"""
+
+"""……………………
+　……………………
+　……………………
+　……………………
+　……………………
+　……………………
+""Phew!"""
+
+"""Is it just me or does the
+Conference Room smell?
+There's some sort of stench
+coming from somewhere..."""
+
+"""They're having another executive meeting.
+I wonder if it's about that Plate incident."""
+
+"""Hey, when you're in the bathroom, do you ever
+hear whispers coming from somewhere?"""
+
+"Come on, we're building the future of Mako!"
+
+"""It gives me the feeling that I AM alive.
+The feeling of moving this world,
+just with my hands."""
+
+"Flush?
+Climb up?
+Get out of here"
+
+"Barret
+""Geez--!
+That's a lotta suits!"""
+"Reeve
+""We have the damage estimates for Sector 7."""
+"""Considering those factories we already set up
+and all the investments,
+the damage is estimated
+at approximately 10 Billion gil..."""
+"Reeve
+""The estimated cost to rebuild Sector 7 is..."""
+"President Shinra
+""We're not rebuilding."""
+"Reeve
+""What?"""
+"President Shinra
+""We're leaving Sector 7 as it is."""
+"And restarting the Neo-Midgar plan."
+"Reeve
+""...then the Ancients?"""
+"President Shinra
+""The Promised Land will soon be ours."""
+"President Shinra
+""I want you to raise the Mako rates
+15% in every area."""
+"Palmer
+""Rate hike! Rate hike!
+Tra, la, la!
+And please include our Space Program
+in the budget!"""
+"President Shinra
+""Reeve and Scarlet will divide the
+extra income from the rate increase."""
+"Palmer
+""Oh man!"""
+"Reeve
+""Sir. If you raise the rates,
+the people will lose confidence..."""
+"President Shinra
+""It'll be all right."""
+"""The ignorant citizens won't lose confidence,
+they'll trust Shinra, Inc. even more."""
+"Heidegger
+""Ha ha ha!"""
+"""After all, we're the ones who saved
+Sector 7 from AVALANCHE!"""
+"Barret
+""That dirty #$*$^"""
+"President Shinra
+""Hojo.
+How's the girl?"""
+"Hojo
+""As a specimen, she is inferior to her mother.
+I'm still in the process of comparing
+her to her mother, Ifalna,
+but for now the difference is 18%."""
+"President Shinra
+""How long will the research take?"""
+"Hojo
+""Probably 120 years.
+It's probably impossible to finish
+in our lifetime.
+Or in the lifetime of the specimen too,
+for that matter."""
+"Hojo
+""That's why we're thinking of breeding her.
+Then we could create one that could withstand
+our research for a long time."""
+"President Shinra
+""What about the Promised Land?
+Won't it hinder our plans?"""
+"Hojo
+""That's what I need to plan.
+The mother is strong...
+and yet has her weaknesses."""
+"President Shinra
+""That concludes our meeting."""
+"Scarlet
+""Something stinks..."""
+"Cloud
+""They were talking about
+Aeris...right?"""
+"Barret
+""I dunno."""
+"Tifa
+""Probably."""
+"Cloud
+""Let's follow 'em."""
+
+"Cloud
+""Hojo...huh...?"""
+"Barret
+""I remember him."""
+"Barret
+""That Hojo guy.
+He's in charge of the Shinra's
+Science Department.
+Cloud, don't you know him?"""
+"Cloud
+""This is the first time I've actually ever seen him.
+So...that's what he looks like..."""
+
+"""Let's see...
+The specimen Hojo asked me for is..."""
+
+"Is this today's specimen?"
+"Hojo
+""Yes.
+We're starting right away.
+Raise it to the upper level."""
+"Hojo
+""My precious specimen..."""
+"Tifa
+""Precious specimen...?"""
+"Tifa
+""Is it going to be used for
+a biological experiment?"""
+"Cloud
+""Jenova..."""
+"Cloud
+""Jenova...
+Sephiroth's...
+So...they've brought it here."""
+"Tifa
+""Cloud, be strong!"""
+"Cloud
+""Did you see it?"""
+"Barret
+""See what?"""
+"Cloud
+""It's moving......still alive?"""
+"Barret
+""Where's its $#&*&@ head?
+This whole thing's stupid.
+Let's keep goin'."""
+
+"Cloud
+""Aeris!"""
+"Hojo
+""Aeris?
+Oh, is that her name?
+What do you want?"""
+"Cloud
+""We're taking Aeris back."""
+"Hojo
+""Outsiders......"""
+"Barret
+""Shoulda noticed it earlier, you..."""
+"Hojo
+""There's so many frivolous things in this world."""
+"Hojo
+""Are you going to kill me?
+I don't think you should."""
+"""The equipment here is extremely delicate.
+Without me, who could operate it? Hmm?"""
+"Cloud
+""Ugh."""
+"Hojo
+""That's right.
+I recommend you think things out logically
+before you make any rash moves."""
+"Hojo
+""Now, bring in the Specimen!"""
+"Aeris
+""Cloud, help!"""
+"Cloud
+""What do you think you're doin'?"""
+"Hojo
+""Lending a helping hand to
+an endangered species...
+Both of them are on the
+brink of extinction..."""
+"Hojo
+""If I don't help, all these animals will disappear."""
+"Tifa
+""...animal? That's terrible!
+Aeris is a human being!"""
+"Barret
+""You're gonna pay!"""
+"Cloud
+""Barret!
+Can't you do anything?"""
+"Barret
+""Awright!!
+Step back!"""
+"Hojo
+""Stop!!"""
+"Hojo
+""Wh...what are you do--
+Oh! My precious specimens..."""
+"Cloud
+""Now's our chance to get Aeris!"""
+"Aeris
+""Thanks, Cloud."""
+"Tifa
+""Cloud...what's wrong?"""
+"Cloud
+""...The elevator is moving."""
+"Hojo
+""This is no ordinary specimen.
+This is a very ferocious specimen!"""
+"""He's rather strong.
+I'll help you all out."""
+"Tifa
+""It talked!?"""
+"I'll talk as much as you want later, Miss."
+"Cloud
+""We'll take care of that monster."""
+"""Somebody take Aeris
+somewhere safe...""
+          Tifa, I'm countin' on you!
+          Barret, take care of her!"
+"Cloud
+""What's your name?"""
+"Red
+""Hojo has named me, Red XIII.
+A name with no meaning whatsoever to me.
+Call me whatever you wish."""
+"Cloud
+""Come on!"""
+
+"Cloud
+""Aeris, you all right?"""
+"Tifa
+""She seems all right,
+...in many ways."""
+"Red XIII
+""I have a right to choose, too.
+I don't like two-legged things."""
+"Barret
+""What are you?"""
+"Red XIII
+""An informed question. But difficult to answer.
+I am what you see."""
+"Red XIII
+""...You must have many questions, but
+first, let's get out of here.
+I'll lead the way."""
+"Aeris
+""Cloud...
+so you did come for me."""
+"Red XIII
+""I apologize for what happened back there.
+I was merely acting to throw Hojo off guard......"""
+"Barret
+""Now we've saved Aeris,
+ain't no need to be in this buildin'!
+So let's get the hell outta here!"""
+"Cloud
+""If all five of us go together, we'll be noticed.
+Let's break up in two groups."""
+"Press the ( MENU ) button to access the Menu.
+Press the ( CANCEL ) button for Change Party.
+Press the ( OKAY ) button when finished."
+"Aeris
+""I'll see you later!!
+We'll be waiting at the 66th Floor Elevator."""
+"Tifa
+""We'll be going first!
+Meet at the 66th Floor Elevator."""
+
+"""No! Please don't kill me.
+I only did what Hojo told me to do."""
+"""To prove it to you...here,
+this is the key card to the 68th Floor."
+Would I be doing this if I was the enemy?"
+
+"Cloud
+""H, hey! What is it?"""
+"Rude
+""Would you press 'Up' please?"""
+"Cloud
+""Turks?
+Must be a trap..."""
+"Tseng
+""It must have been a real thrill for you...
+Did you enjoy it?"""
+"Cloud
+""Ggh..."""
+"Cloud
+""You all got caught, too?"""
+"Cloud
+""Where is Aeris!?"""
+"President Shinra
+""In a safe place."""
+"President Shinra
+""She's the last
+surviving Ancient..."""
+"President Shinra
+""Don't you know?
+They called themselves the Cetra, and lived
+thousands of years ago.
+Now they are just a forgotten page in history."""
+"Red XIII
+""Cetra...That girl,
+is she a survivor of the Cetra?"""
+"President Shinra
+""Cetra, or the Ancients will show us
+the way to the 'Promised Land'.
+I'm expecting a lot out of her."""
+"Red XIII
+""The Promised Land?
+Isn't that just a legend?"""
+"President Shinra
+""Even so, it's just too appealing
+to not to pursue."""
+"""It's been said the Promised Land is
+very fertile."""
+"...If the land is fertile..."
+"Barret
+""Then there's gotta be Mako!"""
+"President Shinra
+""Exactly.
+That is why our money sucking
+Mako Reactor is necessary."""
+"""The abundant Mako will
+just come out on its own."""
+"President Shinra
+""That is where Neo-Midgar will be built.
+Shinra's new glory..."""
+"Barret
+""@$#*^%!
+Quit dreamin'!"""
+"President Shinra
+""Oh really, don't you know?
+These days all it takes for your
+dreams to come true is money and power."""
+"President Shinra
+""Well, that is all for our meeting."""
+"Rude
+""Come on! Outta his way!"""
+"Barret
+""Hold it!
+I got a lot I wanna say to you!"""
+"President Shinra
+""If you need something else...
+talk to my secretary."""
+
+"Tifa
+""Psst ( Can we get out? )""
+          ( Leave it to me )
+          ( Kinda hard )"
+"(1) Tifa
+""Psst ( Cloud, you're so brave! )"""
+"(2) Tifa
+""Psst ( Don't give up! )"""
+
+"I wonder how Barret is doing
+I wonder how Red XIII is doing
+I wonder how Aeris is doing"
+
+"Barret
+""Hey!"""
+"Barret
+""Aeris is an Ancient
+and the real name of the Ancients is Cetra."""
+"""The Ancients know where the Promised Land is
+and the Shinra is searching for that
+Promised Land."""
+"Barret
+""I only heard stories 'bout
+the Promised Land. I don't know
+if it really exists."""
+"Barret
+""Is that right?"""
+"Barret
+""The Shinra believe that the
+Promised Land is full of Mako energy."""
+"Barret
+""Which means, if the Shinra get there,
+they'll suck up all the Mako energy."""
+"Barret
+""...and the land'll wither away.
+The Planet's gonna get weaker."""
+"Barret
+""I can't just leave 'em be.
+I'm recruitin'new members!!"""
+"""Me, Tifa, Cloud...
+and Aeris too."""
+"Barret
+""How 'bout you?"""
+"Barret
+""You're so damn boring."""
+
+"Red XIII
+""............Grandpa."""
+"Barret
+""Grandpa!? Ha, ha, ha......
+Granpa, hmm......ha, ha, ha......"""
+"Red XIII
+""What's so funny?"""
+"Barret
+""Nothin'......ha, ha"""
+
+"Aeris
+""Cloud, are you there?"""
+"Cloud
+""Aeris!? You safe?"""
+"Aeris
+""Yeah, I'm all right."""
+"Aeris
+""I knew that Cloud would
+come for me."""
+"Cloud
+""Hey, I'm your bodyguard, right?"""
+"Aeris
+""The deal was for one date, right?"""
+"Tifa
+""............oh, I get it."""
+"Aeris
+""...!? Tifa!
+Tifa, you're there too!"""
+"Tifa
+""EXCUSE me."""
+"Tifa
+""You know, Aeris.
+I have a question."""
+"Aeris
+""What?"""
+"Tifa
+""Does the Promised Land really exist?"""
+"Aeris
+""...I don't know."""
+"Aeris
+""All I know is..."""
+"""The Cetra were born from the Planet,
+speak with the Planet, and unlock the Planet."""
+"And......then..."
+"""The Cetra will return to the Promised Land.
+A land that promises supreme happiness."""
+"Tifa
+""...What does that mean?"""
+"Aeris
+""More than words......I don't know."""
+"Cloud
+""...Speak with the Planet?"""
+"Tifa
+""Just what does the Planet say?"""
+"Aeris
+""It's full of people and noisy.
+That's why I can't make out
+what they are saying."""
+"Cloud
+""You hear it now?"""
+"Aeris
+""I, I only heard it at the Church in the Slums.
+Mother said that Midgar was no longer safe.
+That is...my real mother."""
+"Aeris
+""Someday I'll get out of Midgar...
+Speak with the Planet
+and find my Promised Land."""
+"...That's what mom said."
+"""I thought I would stop hearing her
+voice as I grew up, but..."""
+
+Let's just get some sleep
+
+"Tifa
+""......"""
+
+"Cloud
+""The door's open...
+When did it open?"""
+"Cloud
+""What's happened?"""
+"Cloud
+""Tifa...
+Wake up!"""
+"Tifa
+""What's wrong?"""
+"Cloud
+""Something's wrong.
+Look outside."""
+"Tifa
+""I wonder what happened..."""
+"Cloud
+""He should have the key on him..."""
+"Cloud
+""Come on, Tifa,
+get Aeris.
+I'll go help Barret
+and the others."""
+"Cloud
+""Barret, Red XIII
+...come with me.
+Something's wrong."""
+"Barret
+""How'd you get in?
+Why's the door open!?"""
+"Tifa
+""This's kinda eerie..."""
+"Aeris
+""Must've been attacked by..."""
+"Barret
+""The hell's goin' on!?"""
+"Red XIII
+""No human could've done this."""
+"Red XIII
+""I'll go on ahead."""
+"Barret
+""I'll clean up back here,
+so you guys go ahead.
+And don't get caught by Shinra!"""
+"Tifa
+""Come on, let's follow Red XIII!"""
+"Red XIII
+""Jenova Specimen...
+Looks like it went to the upper floor
+using that elevator for the specimens."""
+
+"Red XIII
+""It looks like it leads up..."""
+
+"Barret
+""He's dead...
+The leader of Shinra, Inc. is dead..."""
+"Tifa
+""Then this sword must be...!?"""
+"Cloud
+""Sephiroth's!!"""
+"Tifa
+""...Sephiroth is alive?"""
+"Cloud
+""...Looks like it.
+Only Sephiroth can use that sword."""
+"Barret
+""Who cares who did it!?
+This is the end of the Shinra now!"""
+"Uh!"
+"Palmer
+""P, p, p, please, don't kill me!"""
+"Cloud
+""What happened?"""
+"Palmer
+""Se...Sephiroth.
+Sephiroth came."""
+"Cloud
+""Did you see him? Did you see Sephiroth?"""
+"Palmer
+""Yeah, I saw him! I saw him with my own eyes!"""
+"Cloud
+""You really saw him?"""
+"Palmer
+""Uh!
+Would I lie to you at a time like this!?
+And I heard his voice too!"""
+"Palmer
+""Um, he was saying something about
+not letting us have the Promised Land."""
+"Tifa
+""Then what?"""
+"""Does that mean that the Promised Land
+really exists and that Sephiroth's
+here to save it from Shinra?"""
+"Barret
+""So he's a good guy then?"""
+"Cloud
+""Save the Promised Land?
+A good guy? No way!!"""
+"""It's not that simple! I know him!
+Sephiroth's mission is different!"""
+"Barret
+""Rufus!
+&*%$! I forgot about him!"""
+"Tifa
+""Who's that?"""
+"Barret
+""Vice President Rufus.
+The President's son."""
+"Red XIII
+""I only know his name."""
+"Barret
+""I heard that he's been assigned somewhere
+else for a long time..."""
+"Aeris
+""I've heard that no one's ever
+seen him bleed or cry."""
+"Tifa
+""I wonder what kinda person he is..."""
+
+"Rufus
+""So...
+So Sephiroth was actually here.
+...By the way."""
+"Rufus
+""Who are you guys?"""
+"Cloud
+""I'm Cloud,
+former SOLDIER First Class!"""
+"Barret
+""I'm from AVALANCHE!"""
+"Tifa
+""Same here!"""
+"Aeris
+""...a flower girl from the slums."""
+"Red XIII
+""...a research specimen."""
+"Rufus
+""What a crew."""
+"Rufus
+""Well, I'm Rufus.
+The President of Shinra, Inc."""
+"Barret
+""You only President, 'cause yer old man died!"""
+"Rufus
+""That's right. I'll let you hear my
+new appointment speech."""
+"Rufus
+""...Old man tried to control the world
+with money.
+It seems to have been working."""
+"Rufus
+""The population thought that Shinra
+would protect them."""
+"Rufus
+""Work at Shinra, get your pay.
+If a terrorist attacks,
+the Shinra army will help you."""
+"It looks perfect on the outside."
+"Rufus
+""But, I do things differently."""
+"""I'll control the world with fear.
+It takes too much to do it like my old man."""
+"Rufus
+""A little fear will control
+the minds of the common people.
+There's no reason to waste
+money on them."""
+
+"Tifa
+""He likes to make speeches
+just like his father."""
+"Cloud
+""Get outta this building
+with Aeris!"""
+"Barret
+""What?"""
+"Cloud
+""I'll explain later!
+Barret! This is the real crisis
+for the Planet!"""
+"Barret
+""The hell's that supposed to mean?"""
+"Cloud
+""I'll tell you later!
+Just take my word for it now!
+I'll go after I take care of him!"""
+"Barret
+""Awright, Cloud!"""
+"Aeris
+""Cloud...
+I just thought of something."""
+"Tifa
+""...I'll wait for Cloud!
+Everyone, get to the elevator!"""
+"Aeris
+""Hmm, it's going to get pretty ugly from here on.
+We should check on our equipment."""
+
+"Cloud and
+Tifa's Materia...
+          ( Remove )
+          ( Leave it as is)"
+
+"Rufus
+""Why do you want to fight me?"""
+"Cloud
+""You seek the Promised Land
+and Sephiroth."""
+"Rufus
+""Hm, exactly."""
+"Rufus
+""Mm? Did you know
+that Sephiroth is an Ancient?"""
+"Cloud
+""...A lot has happened.
+Anyway, I can't let either you or Sephiroth
+have the Promised Land!"""
+"Rufus
+""I see.
+I guess this means we won't become friends."""
+
+Rufus "Heh, Heh, Heh..."
+Rufus "Heh, Heh, Heh..."
+Rufus "Heh... That's all for today..."
+
+"Tifa
+""Where's Rufus?"""
+"Cloud
+""I couldn't finish 'em.
+Looks like this's gonna get complicated."""
+
+"Barret
+""I'll go on ahead!"""
+"Barret
+""*&^%(*...
+surrounded, huh?"""
+"""If I was alone this wouldn't be a thang but,
+I gotta reputation to protect."""
+"Aeris
+""You all get out
+while you can."""
+"""It's not you they're after...
+it's me."""
+"Barret
+""Yeah, well that ain't happenin'."""
+"""You got caught up in this over Marlene.
+Now, it's my turn to watch out for you!"""
+"Barret
+""Ok, playtime's over
+for you jackasses..."""
+"Aeris
+""...thank you, Mr. Barret!"""
+"Barret
+""Who you callin' Mr. Barret?
+That don't sound right!"""
+"Red XIII
+""Well then..."""
+"""If you are through talking,
+may I suggest that we think of
+a way to get out of here."""
+"Barret
+""Huh? Oh, oh yeah...
+You a cold man.
+Just like someone else 'round here I know."""
+"Red XIII
+""Did you say something?"""
+"Barret
+""Notta thing.
+So what're we gonna do?"""
+"Tifa
+""Barret!!"""
+"Barret
+""Tifa!
+Where's Cloud?"""
+"Tifa
+""Everyone, over here!"""
+"Barret
+""Huh?
+What's up?
+Where's Cloud?"""
+"Tifa
+""I'll tell you later!
+Hurry, Hurry!!"""
+
+"Barret
+""Well, what do we do now?"""
+"Cloud
+""Sephiroth is alive.
+I ...I have to settle the score."""
+"Barret
+""And that'll save the Planet?"""
+"Cloud
+""...Seems like it."""
+"Barret
+""Awright, I'm going!"""
+"Aeris
+""I'll go too.
+...I have things that I want to find out."""
+"Cloud
+""About the Ancients?"""
+"Aeris
+""......Many things."""
+"Tifa
+""I guess this's good bye, Midgar."""
+
+"Red XIII
+""I'm going back to my hometown.
+I'll go with you as far as that."""
+
+"Tifa
+""...I guess this is the start of our journey..."""
+"          You hate traveling?
+          It's dangerous. You sure you want to go?"
+"(1) Tifa
+""...I don't know.
+But, I don't have anywhere else to go.
+So I guess it doesn't really matter whether
+I like to travel or not."""
+"(2) Tifa
+""......Mmm.
+But you know, it should be all right
+if you keep your promise."""
+
+"Aeris
+""You know what?
+This is the first time I've ever left Midgar..."""
+"          Really? ...You worried?
+          It's dangerous. You sure you want to go?"
+"(1) Aeris
+""A little, ...no, maybe a lot.
+But I have my bodyguard, right?"""
+"(2) Aeris
+""I thought you'd say that!"""
+
+"Barret
+""We told Aeris's mom to go
+somewhere safe, so Marlene should be
+safe too."""
+"          Yeah, she should be
+          Hmm, I don't know"
+"(1) Aeris
+""She said she didn't want to stay
+in Midgar anymore.
+...Maybe it's for the best."""
+"(2) Aeris
+""Stop it, Cloud!
+I'm worried too."""
+
+"Cloud
+""Then..."""
+"          Let's stay here for a while
+          Let's go!"
+"Barret
+""We need a group leader for our journey.
+'Course only me could be the leader."""
+"Tifa
+""You think so...?"""
+"Aeris
+""It would have to be Cloud."""
+"Barret
+""^#$^%......awright.
+Go Northeast to a town
+called Kalm.
+If something happens,
+we'll meet up there."""
+"Barret
+""'Sides, we can't have 5 people
+strolling down the fields.
+It's too dangerous.
+Split us into 2 parties..."""
+
+"Barret
+""Later, at Kalm!"""
+"Tifa+B2884:B2898
+""We'll see you at Kalm!"""
