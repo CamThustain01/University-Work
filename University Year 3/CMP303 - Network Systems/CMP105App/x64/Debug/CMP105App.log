@@ -1,0 +1,47 @@
+﻿  Level.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(57,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(57,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(99,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(99,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(101,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(101,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(108,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(108,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(110,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(110,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(366,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(377,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  CMP105App.vcxproj -> C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\x64\Debug\CMP105App.exe

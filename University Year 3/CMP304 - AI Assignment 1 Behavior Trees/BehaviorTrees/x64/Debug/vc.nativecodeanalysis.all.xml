@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP304 AI\CMP304-AI-Assignment\Behaviour Tree\BehaviorTrees\BehaviorTrees\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>303</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>The enum type 'feelings_' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).</DESCRIPTION>
+    <FUNCTION>run_fsm</FUNCTION>
+    <DECORATED>?run_fsm@@YAXXZ</DECORATED>
+    <FUNCLINE>292</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

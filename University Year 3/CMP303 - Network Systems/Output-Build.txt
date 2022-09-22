@@ -1,0 +1,54 @@
+﻿1>------ Build started: Project: CMP105App, Configuration: Debug x64 ------
+1>Client.cpp
+1>Level.cpp
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(56,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(56,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(98,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(98,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(100,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(100,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(107,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(107,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(109,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(109,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(352,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+1>        with
+1>        [
+1>            T=unsigned int
+1>        ]
+1>C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(363,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+1>        with
+1>        [
+1>            T=unsigned int
+1>        ]
+1>Main.cpp
+1>Server.cpp
+1>Generating Code...
+1>CMP105App.vcxproj -> C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\x64\Debug\CMP105App.exe
+1>Done building project "CMP105App.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

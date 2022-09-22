@@ -1,0 +1,108 @@
+﻿  Background.cpp
+  CollectableBullets.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\CollectableBullets.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CreditsScreen.cpp
+  DeathScreen.cpp
+  Enemy.cpp
+  Enemy2.cpp
+  Animation.cpp
+  AudioManager.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  Vector.cpp
+  Level.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(57,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(57,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(99,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(99,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(101,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(101,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(108,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(108,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(110,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(110,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(361,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Level.cpp(372,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+  MainMenu.cpp
+  Client.cpp
+  Compiling...
+  Network_utils.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Network_utils.cpp(163,32): warning C4390: ';': empty controlled statement found; is this the intent?
+  OptionsScreen.cpp
+  PauseScreen.cpp
+  Player.cpp
+  Server.cpp
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Server.cpp(89,42): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Server.cpp(90,42): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Server.cpp(93,46): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Server.cpp(94,46): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Server.cpp(97,44): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\CMP105App\Server.cpp(98,44): warning C4244: '/=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 588 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CMP105App.vcxproj -> C:\Users\thust\OneDrive\Desktop\University Year 3\CMP303 Network Systems\Coursework\CMP303_1900594_Thustain\Coursework\x64\Release\CMP105App.exe

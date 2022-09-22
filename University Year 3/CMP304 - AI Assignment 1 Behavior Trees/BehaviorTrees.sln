@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BehaviorTrees", "BehaviorTrees\BehaviorTrees.vcxproj", "{185B1C72-C0F9-41FE-9CC3-66DEC1769EC2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{56312B01-B5B5-4B44-B6DF-88D4C0CC9279} = {56312B01-B5B5-4B44-B6DF-88D4C0CC9279}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTLib", "BTLib\BTLib.vcxproj", "{56312B01-B5B5-4B44-B6DF-88D4C0CC9279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185B1C72-C0F9-41FE-9CC3-66DEC1769EC2}.Debug|x64.ActiveCfg = Debug|x64
+		{185B1C72-C0F9-41FE-9CC3-66DEC1769EC2}.Debug|x64.Build.0 = Debug|x64
+		{185B1C72-C0F9-41FE-9CC3-66DEC1769EC2}.Release|x64.ActiveCfg = Release|x64
+		{185B1C72-C0F9-41FE-9CC3-66DEC1769EC2}.Release|x64.Build.0 = Release|x64
+		{56312B01-B5B5-4B44-B6DF-88D4C0CC9279}.Debug|x64.ActiveCfg = Debug|x64
+		{56312B01-B5B5-4B44-B6DF-88D4C0CC9279}.Debug|x64.Build.0 = Debug|x64
+		{56312B01-B5B5-4B44-B6DF-88D4C0CC9279}.Release|x64.ActiveCfg = Release|x64
+		{56312B01-B5B5-4B44-B6DF-88D4C0CC9279}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E118ACCD-86AD-496A-93CE-6FFAE8FEF119}
+	EndGlobalSection
+EndGlobal
